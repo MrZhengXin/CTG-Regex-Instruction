@@ -1,0 +1,993 @@
+{"input": " <expression> <mask_0> stood <mask_1> field <mask_2> looking <mask_3> </expression> ", "output": " The player stood in the field looking at the batter. "}
+{"input": " <expression> <mask_0> kid <mask_1> dance <mask_2> room <mask_3> </expression> ", "output": " The silly kid loves to dance in her room. "}
+{"input": " <expression> <mask_0> pet <mask_1> cat <mask_2> couch <mask_3> </expression> ", "output": " A pet cat likes to sleep on a couch. "}
+{"input": " <expression> <mask_0> climbed <mask_1> side <mask_2> building <mask_3> </expression> ", "output": " The mouse climbed the side of the building. "}
+{"input": " <expression> <mask_0> talking <mask_1> climb <mask_2> wall <mask_3> </expression> ", "output": " The woman thats talking teaches her students how to climb the wall. "}
+{"input": " <expression> <mask_0> car <mask_1> drove <mask_2> snow <mask_3> </expression> ", "output": " The car drove through the snow. "}
+{"input": " <expression> <mask_0> wear <mask_1> talks <mask_2> phone <mask_3> </expression> ", "output": " The boy wants to wear earpods as he talks on his phone. "}
+{"input": " <expression> <mask_0> team <mask_1> hockey <mask_2> rink <mask_3> </expression> ", "output": " The team practiced hockey at the outdoor rink. "}
+{"input": " <expression> <mask_0> ocean <mask_1> surfers <mask_2> surf <mask_3> </expression> ", "output": " the ocean is where surfers go to surf "}
+{"input": " <expression> <mask_0> jumps <mask_1> flight <mask_2> stairs <mask_3> </expression> ", "output": " A boy jumps up a flight of stairs taking two at a time. "}
+{"input": " <expression> <mask_0> band <mask_1> instruments <mask_2> music <mask_3> </expression> ", "output": " The school band played their instruments in unison rendering a sweet music. "}
+{"input": " <expression> <mask_0> sit <mask_1> circle <mask_2> talks <mask_3> </expression> ", "output": " The students sit in a circle as the teacher talks. "}
+{"input": " <expression> <mask_0> moved <mask_1> looking <mask_2> eyes <mask_3> </expression> ", "output": " I quickly moved back, while still looking into the eyes of the stranger. "}
+{"input": " <expression> <mask_0> looked <mask_1> watch <mask_2> window <mask_3> </expression> ", "output": " He looked at his watch and then out of the window. "}
+{"input": " <expression> <mask_0> athlete <mask_1> prepare <mask_2> run <mask_3> </expression> ", "output": " The athlete performs stretches as they prepare to run. "}
+{"input": " <expression> <mask_0> gear <mask_1> wear <mask_2> walk <mask_3> </expression> ", "output": " The hiker bought new gear to wear for the walk to the waterfall. "}
+{"input": " <expression> <mask_0> stage <mask_1> giving <mask_2> speech <mask_3> </expression> ", "output": " The man on stage is giving a speech. "}
+{"input": " <expression> <mask_0> rubs <mask_1> hands <mask_2> soap <mask_3> </expression> ", "output": " A man rubs his hands with soap after using the bathrooom. "}
+{"input": " <expression> <mask_0> waved <mask_1> hand <mask_2> front <mask_3> </expression> ", "output": " A girl waved her hand in front of the man. "}
+{"input": " <expression> <mask_0> mow <mask_1> lawn <mask_2> yard <mask_3> </expression> ", "output": " David had to mow the lawn by 12:00pm, and there are a yard to finish. "}
+{"input": " <expression> <mask_0> Create <mask_1> pottery <mask_2> wheel <mask_3> </expression> ", "output": " Create pottery with a wheel and clay. "}
+{"input": " <expression> <mask_0> sofa <mask_1> sit <mask_2> hold <mask_3> </expression> ", "output": " The sofa will sit in the living room and will hold visitors who visit. "}
+{"input": " <expression> <mask_0> sat <mask_1> holding <mask_2> newspaper <mask_3> </expression> ", "output": " the man sat down holding the newspaper. "}
+{"input": " <expression> <mask_0> sits <mask_1> looks <mask_2> hair <mask_3> </expression> ", "output": " The girl sits as she looks in the mirror while styling her hair. "}
+{"input": " <expression> <mask_0> equipment <mask_1> climb <mask_2> mountain <mask_3> </expression> ", "output": " use the equipment to climb the mountain "}
+{"input": " <expression> <mask_0> sit <mask_1> space <mask_2> stare <mask_3> </expression> ", "output": " The kid wanted to sit in the empty space and stare at the wall. "}
+{"input": " <expression> <mask_0> kick <mask_1> ball <mask_2> head <mask_3> </expression> ", "output": " I didn't mean to kick the ball into the goalie's head. "}
+{"input": " <expression> <mask_0> dancer <mask_1> costume <mask_2> stage <mask_3> </expression> ", "output": " The female dancer wears a pretty costume on the stage. "}
+{"input": " <expression> <mask_0> standing <mask_1> hands <mask_2> pocket <mask_3> </expression> ", "output": " A girl was standing with her hands in her pocket. "}
+{"input": " <expression> <mask_0> cat <mask_1> sitting <mask_2> floor <mask_3> </expression> ", "output": " The cat is sitting on the floor. "}
+{"input": " <expression> <mask_0> sat <mask_1> arms <mask_2> stretched <mask_3> </expression> ", "output": " A girl sat on the couch with her arms stretched towards the ceiling. "}
+{"input": " <expression> <mask_0> looks <mask_1> lying <mask_2> bed <mask_3> </expression> ", "output": " He looks at the clock while lying in bed. "}
+{"input": " <expression> <mask_0> stands <mask_1> wall <mask_2> watching <mask_3> </expression> ", "output": " a girl stands in front of the wall watching it "}
+{"input": " <expression> <mask_0> eats <mask_1> meal <mask_2> prepares <mask_3> </expression> ", "output": " A child eats a meal her mother prepares. "}
+{"input": " <expression> <mask_0> bounce <mask_1> ball <mask_2> times <mask_3> </expression> ", "output": " She is to bounce the ball a hundred times I 2 minutes. "}
+{"input": " <expression> <mask_0> cut <mask_1> hair <mask_2> style <mask_3> </expression> ", "output": " The sister cut some hair to style it for prom. "}
+{"input": " <expression> <mask_0> walk <mask_1> leash <mask_2> street <mask_3> </expression> ", "output": " The children walk with their dog on a leash down the street. "}
+{"input": " <expression> <mask_0> kid <mask_1> slides <mask_2> pool <mask_3> </expression> ", "output": " A kid slides into the pool. "}
+{"input": " <expression> <mask_0> wash <mask_1> hand <mask_2> stand <mask_3> </expression> ", "output": " wash your hand and stand by the wall "}
+{"input": " <expression> <mask_0> sprayed <mask_1> graffiti <mask_2> wall <mask_3> </expression> ", "output": " The teenagers sprayed graffiti on the wall. "}
+{"input": " <expression> <mask_0> car <mask_1> side <mask_2> street <mask_3> </expression> ", "output": " A car was parked on the side of the street. "}
+{"input": " <expression> <mask_0> dog <mask_1> ride <mask_2> walk <mask_3> </expression> ", "output": " I took my dog for a ride to the park so we could walk. "}
+{"input": " <expression> <mask_0> rides <mask_1> woods <mask_2> trail <mask_3> </expression> ", "output": " the woman rides through the woods on a trail. "}
+{"input": " <expression> <mask_0> knife <mask_1> cut <mask_2> wood <mask_3> </expression> ", "output": " The knife cut into the wood chopping board "}
+{"input": " <expression> <mask_0> cat <mask_1> hold <mask_2> clip <mask_3> </expression> ", "output": " The cat tried to hold my hand while I tried to clip my nails. "}
+{"input": " <expression> <mask_0> swimmer <mask_1> swim <mask_2> lane <mask_3> </expression> ", "output": " The swimmer can swim in his lane. "}
+{"input": " <expression> <mask_0> blower <mask_1> blow <mask_2> pile <mask_3> </expression> ", "output": " I used a blower to blow the leaves into a pile. "}
+{"input": " <expression> <mask_0> stand <mask_1> wall <mask_2> painted <mask_3> </expression> ", "output": " Do not stand too close the the wall, it was just painted. "}
+{"input": " <expression> <mask_0> falls <mask_1> throws <mask_2> ball <mask_3> </expression> ", "output": " The man falls after he throws the ball. "}
+{"input": " <expression> <mask_0> stands <mask_1> side <mask_2> boat <mask_3> </expression> ", "output": " The boy stands on the side of the boat in the morning. "}
+{"input": " <expression> <mask_0> fall <mask_1> jump <mask_2> ground <mask_3> </expression> ", "output": " The girl may fall if she tries to jump to the ground. "}
+{"input": " <expression> <mask_0> gymnast <mask_1> flips <mask_2> mat <mask_3> </expression> ", "output": " A gymnast flips on a mat. "}
+{"input": " <expression> <mask_0> pitcher <mask_1> pitch <mask_2> ball <mask_3> </expression> ", "output": " The pitcher will pitch the ball. "}
+{"input": " <expression> <mask_0> pops <mask_1> wheelie <mask_2> riding <mask_3> </expression> ", "output": " The boy pops a wheelie while riding his bike. "}
+{"input": " <expression> <mask_0> listen <mask_1> music <mask_2> street <mask_3> </expression> ", "output": " A woman stops to listen to a man playing music on a street corner. "}
+{"input": " <expression> <mask_0> wears <mask_1> walking <mask_2> grass <mask_3> </expression> ", "output": " The boy wears shoes while walking on the grass. "}
+{"input": " <expression> <mask_0> holds <mask_1> hand <mask_2> watches <mask_3> </expression> ", "output": " A girl holds her hand out as the cat watches. "}
+{"input": " <expression> <mask_0> ball <mask_1> hit <mask_2> floor <mask_3> </expression> ", "output": " The ball hit the floor. "}
+{"input": " <expression> <mask_0> kitchen <mask_1> roll <mask_2> dough <mask_3> </expression> ", "output": " The woman went into the kitchen to roll out the dough for the biscuits. "}
+{"input": " <expression> <mask_0> pointed <mask_1> gun <mask_2> head <mask_3> </expression> ", "output": " The robber pointed the gun at the head of the bank manager. "}
+{"input": " <expression> <mask_0> boat <mask_1> water <mask_2> docked <mask_3> </expression> ", "output": " The boat in the water was docked near the pier. "}
+{"input": " <expression> <mask_0> microphone <mask_1> sing <mask_2> stage <mask_3> </expression> ", "output": " The woman holds turns on a microphone to sing on stage. "}
+{"input": " <expression> <mask_0> stopped <mask_1> take <mask_2> picture <mask_3> </expression> ", "output": " The man stopped to take a picture. "}
+{"input": " <expression> <mask_0> dressed <mask_1> costume <mask_2> instruments <mask_3> </expression> ", "output": " The marching band members dressed in costume and bore their instruments, ready to start. "}
+{"input": " <expression> <mask_0> kick <mask_1> run <mask_2> grass <mask_3> </expression> ", "output": " The toddler had to kick the ball and run on the grass to first place. "}
+{"input": " <expression> <mask_0> game <mask_1> players <mask_2> score <mask_3> </expression> ", "output": " In a soccer game players score goal "}
+{"input": " <expression> <mask_0> watch <mask_1> crossed <mask_2> street <mask_3> </expression> ", "output": " A girl kept watch when she crossed the street. "}
+{"input": " <expression> <mask_0> sits <mask_1> foot <mask_2> bed <mask_3> </expression> ", "output": " A boy sits on the foot of the bed every morning to stretch before leaving his room. "}
+{"input": " <expression> <mask_0> closed <mask_1> held <mask_2> mouth <mask_3> </expression> ", "output": " The boy closed his eyes and held his mouth shut because there was a swarm of bugs. "}
+{"input": " <expression> <mask_0> building <mask_1> rope <mask_2> climb <mask_3> </expression> ", "output": " This building is decaying, therefore the girl may need a rope to climb to the top. "}
+{"input": " <expression> <mask_0> headphones <mask_1> worn <mask_2> watched <mask_3> </expression> ", "output": " when headphones meant to be worn not watched "}
+{"input": " <expression> <mask_0> student <mask_1> watching <mask_2> class <mask_3> </expression> ", "output": " The student is watching his peers in class. "}
+{"input": " <expression> <mask_0> house <mask_1> jump <mask_2> trampoline <mask_3> </expression> ", "output": " house jump trampoline is on the yard "}
+{"input": " <expression> <mask_0> put <mask_1> foot <mask_2> sock <mask_3> </expression> ", "output": " The boy put his foot into the sock. "}
+{"input": " <expression> <mask_0> eats <mask_1> cream <mask_2> spoon <mask_3> </expression> ", "output": " The girl eats the cream with a spoon. "}
+{"input": " <expression> <mask_0> boat <mask_1> sailed <mask_2> day <mask_3> </expression> ", "output": " The boat sailed all day. "}
+{"input": " <expression> <mask_0> class <mask_1> took <mask_2> part <mask_3> </expression> ", "output": " The class took the stage to perform their part in the performance. "}
+{"input": " <expression> <mask_0> mixes <mask_1> bowl <mask_2> spoon <mask_3> </expression> ", "output": " A woman mixes salad in a bowl with a spoon. "}
+{"input": " <expression> <mask_0> holding <mask_1> knife <mask_2> hand <mask_3> </expression> ", "output": " A kid is holding a knife in the wrong hand. "}
+{"input": " <expression> <mask_0> swimmer <mask_1> races <mask_2> lane <mask_3> </expression> ", "output": " The swimmer races down their lane winning the heet. "}
+{"input": " <expression> <mask_0> give <mask_1> chair <mask_2> sit <mask_3> </expression> ", "output": " Its polite to give your chair to an elderly lady so she can sit. "}
+{"input": " <expression> <mask_0> hit <mask_1> birdie <mask_2> racket <mask_3> </expression> ", "output": " In Badminton the goal is to hit the birdie with a racket without crossing the boundary lines. "}
+{"input": " <expression> <mask_0> fix <mask_1> tire <mask_2> bike <mask_3> </expression> ", "output": " The teen had to fix his tire on the bike so he could ride it. "}
+{"input": " <expression> <mask_0> pierced <mask_1> ear <mask_2> needle <mask_3> </expression> ", "output": " The beautician pierced the ear with the needle. "}
+{"input": " <expression> <mask_0> gear <mask_1> climb <mask_2> wall <mask_3> </expression> ", "output": " We put on our climbing gear hen we want to climb a wall. "}
+{"input": " <expression> <mask_0> music <mask_1> bike <mask_2> ride <mask_3> </expression> ", "output": " The boy listened to music on his bike ride. "}
+{"input": " <expression> <mask_0> dress <mask_1> dance <mask_2> perform <mask_3> </expression> ", "output": " She bought a new dress for dance class ready to perform. "}
+{"input": " <expression> <mask_0> smoke <mask_1> cigarette <mask_2> car <mask_3> </expression> ", "output": " don't smoke cigarette in the car "}
+{"input": " <expression> <mask_0> folded <mask_1> arms <mask_2> chest <mask_3> </expression> ", "output": " In yoga, a lady folded her arms around her chest for a pose. "}
+{"input": " <expression> <mask_0> walk <mask_1> top <mask_2> dog <mask_3> </expression> ", "output": " The child will walk to the top of the hill with his dog. "}
+{"input": " <expression> <mask_0> blew <mask_1> bubble <mask_2> toy <mask_3> </expression> ", "output": " The girl blew a bubble from her toy. "}
+{"input": " <expression> <mask_0> friend <mask_1> cut <mask_2> hair <mask_3> </expression> ", "output": " The girl's mother wanted her friend to cut Macy's hair. "}
+{"input": " <expression> <mask_0> helps <mask_1> wash <mask_2> dishes <mask_3> </expression> ", "output": " The man helps to wash the dishes. "}
+{"input": " <expression> <mask_0> gives <mask_1> speech <mask_2> audience <mask_3> </expression> ", "output": " The man gives a speech to a large audience. "}
+{"input": " <expression> <mask_0> runs <mask_1> treadmill <mask_2> music <mask_3> </expression> ", "output": " A man runs on a treadmill while listening to upbeat music. "}
+{"input": " <expression> <mask_0> hold <mask_1> kitchen <mask_2> stand <mask_3> </expression> ", "output": " A boy had to hold a kitchen stand when it broke. "}
+{"input": " <expression> <mask_0> hands <mask_1> air <mask_2> riding <mask_3> </expression> ", "output": " The kids put their hands in the air while riding a roller coaster. "}
+{"input": " <expression> <mask_0> dog <mask_1> eats <mask_2> house <mask_3> </expression> ", "output": " The dog eats food inside the house. "}
+{"input": " <expression> <mask_0> dances <mask_1> female <mask_2> male <mask_3> </expression> ", "output": " dances female and male make a couple dancers "}
+{"input": " <expression> <mask_0> use <mask_1> comb <mask_2> hair <mask_3> </expression> ", "output": " I use a comb to fix my hair. "}
+{"input": " <expression> <mask_0> wear <mask_1> helmet <mask_2> horse <mask_3> </expression> ", "output": " The rider had to wear a helmet before getting on the horse. "}
+{"input": " <expression> <mask_0> view <mask_1> ocean <mask_2> boat <mask_3> </expression> ", "output": " There is a beautiful view of the ocean from a boat. "}
+{"input": " <expression> <mask_0> hit <mask_1> ball <mask_2> team <mask_3> </expression> ", "output": " Johnny hit the ball to score on the other team. "}
+{"input": " <expression> <mask_0> holds <mask_1> paper <mask_2> hand <mask_3> </expression> ", "output": " The girl holds the paper with her hand. "}
+{"input": " <expression> <mask_0> pole <mask_1> vault <mask_2> bar <mask_3> </expression> ", "output": " when you pole vault you launch over a bar. "}
+{"input": " <expression> <mask_0> hand <mask_1> open <mask_2> door <mask_3> </expression> ", "output": " The man reached out his hand to open the door "}
+{"input": " <expression> <mask_0> wear <mask_1> shirt <mask_2> bed <mask_3> </expression> ", "output": " I had to wear my shirt to bed. "}
+{"input": " <expression> <mask_0> lady <mask_1> apply <mask_2> makeup <mask_3> </expression> ", "output": " The lady knew how to apply her makeup. "}
+{"input": " <expression> <mask_0> pour <mask_1> beverage <mask_2> glass <mask_3> </expression> ", "output": " Please pour me a beverage in the glass. "}
+{"input": " <expression> <mask_0> dive <mask_1> jump <mask_2> pool <mask_3> </expression> ", "output": " dive jump into the pool "}
+{"input": " <expression> <mask_0> drive <mask_1> street <mask_2> walk <mask_3> </expression> ", "output": " I would rather drive down the street than walk. "}
+{"input": " <expression> <mask_0> stood <mask_1> grass <mask_2> held <mask_3> </expression> ", "output": " I stood in the grass and held the trimmer in my hand. "}
+{"input": " <expression> <mask_0> ride <mask_1> road <mask_2> cart <mask_3> </expression> ", "output": " the couple took a ride down the road in their cart "}
+{"input": " <expression> <mask_0> Cheer <mask_1> race <mask_2> run <mask_3> </expression> ", "output": " Cheer the number  one racer to race and run faster "}
+{"input": " <expression> <mask_0> sat <mask_1> table <mask_2> guitar <mask_3> </expression> ", "output": " The man sat on top of the table played the guitar. "}
+{"input": " <expression> <mask_0> wears <mask_1> working <mask_2> machines <mask_3> </expression> ", "output": " The man wears protective gloves when working with machines. "}
+{"input": " <expression> <mask_0> crosses <mask_1> street <mask_2> phone <mask_3> </expression> ", "output": " A woman crosses the street while talking on her phone. "}
+{"input": " <expression> <mask_0> kid <mask_1> ball <mask_2> yard <mask_3> </expression> ", "output": " A kid throws a ball in the yard. "}
+{"input": " <expression> <mask_0> face <mask_1> hair <mask_2> move <mask_3> </expression> ", "output": " face hair like to move across his face "}
+{"input": " <expression> <mask_0> rubbed <mask_1> lotion <mask_2> face <mask_3> </expression> ", "output": " The spa employee rubbed lotion on the client's face. "}
+{"input": " <expression> <mask_0> boat <mask_1> looked <mask_2> standing <mask_3> </expression> ", "output": " While driving the boat it looked like the water was standing still. "}
+{"input": " <expression> <mask_0> dogs <mask_1> pulled <mask_2> sleigh <mask_3> </expression> ", "output": " As the dogs ran, they pulled the sleigh. "}
+{"input": " <expression> <mask_0> watched <mask_1> shave <mask_2> legs <mask_3> </expression> ", "output": " The mom watched her teen shave her legs. "}
+{"input": " <expression> <mask_0> kids <mask_1> class <mask_2> sit <mask_3> </expression> ", "output": " The teacher told the kids in class to sit in their assigned seats. "}
+{"input": " <expression> <mask_0> guitar <mask_1> sits <mask_2> stool <mask_3> </expression> ", "output": " The man plays guitar as he sits on his tall stool "}
+{"input": " <expression> <mask_0> sit <mask_1> bike <mask_2> street <mask_3> </expression> ", "output": " I sit on my bike and ride down the street. "}
+{"input": " <expression> <mask_0> threw <mask_1> football <mask_2> game <mask_3> </expression> ", "output": " The girl threw the football to score the touchdown that won the game. "}
+{"input": " <expression> <mask_0> room <mask_1> eat <mask_2> food <mask_3> </expression> ", "output": " The family went to the dining room to eat their food. "}
+{"input": " <expression> <mask_0> front <mask_1> crowd <mask_2> basketball <mask_3> </expression> ", "output": " We sat in the front of the crowd to watch basketball. "}
+{"input": " <expression> <mask_0> washes <mask_1> face <mask_2> bathroom <mask_3> </expression> ", "output": " A boy washes his face in the bathroom. "}
+{"input": " <expression> <mask_0> dress <mask_1> perform <mask_2> stage <mask_3> </expression> ", "output": " You will have to dress to perform on the stage. "}
+{"input": " <expression> <mask_0> sits <mask_1> works <mask_2> machine <mask_3> </expression> ", "output": " A boy sits down and works at a machine. "}
+{"input": " <expression> <mask_0> hit <mask_1> dart <mask_2> board <mask_3> </expression> ", "output": " He hit the dart board. "}
+{"input": " <expression> <mask_0> shaves <mask_1> side <mask_2> head <mask_3> </expression> ", "output": " The man shaves the side of his head with a razor. "}
+{"input": " <expression> <mask_0> walked <mask_1> rock <mask_2> river <mask_3> </expression> ", "output": " As he walked he threw a rock into the river. "}
+{"input": " <expression> <mask_0> talk <mask_1> eat <mask_2> restaurant <mask_3> </expression> ", "output": " We can talk while we eat at the restaurant. "}
+{"input": " <expression> <mask_0> stand <mask_1> front <mask_2> equipment <mask_3> </expression> ", "output": " Do not stand in front of the equipment while it is in use. "}
+{"input": " <expression> <mask_0> horse <mask_1> carriage <mask_2> draws <mask_3> </expression> ", "output": " The horse pulling the carriage draws to a stop. "}
+{"input": " <expression> <mask_0> brush <mask_1> clean <mask_2> window <mask_3> </expression> ", "output": " I used a brush to clean the window "}
+{"input": " <expression> <mask_0> barber <mask_1> shaved <mask_2> head <mask_3> </expression> ", "output": " The barber shaved the man's head with a trimmer. "}
+{"input": " <expression> <mask_0> stands <mask_1> watches <mask_2> move <mask_3> </expression> ", "output": " A lady stands and watches the way the dancers move. "}
+{"input": " <expression> <mask_0> face <mask_1> climbs <mask_2> rope <mask_3> </expression> ", "output": " The boy has a smile on his face as he climbs the rope. "}
+{"input": " <expression> <mask_0> drive <mask_1> car <mask_2> phone <mask_3> </expression> ", "output": " People should not drive a car while talking on the phone. "}
+{"input": " <expression> <mask_0> couple <mask_1> rides <mask_2> street <mask_3> </expression> ", "output": " A couple rides down the street. "}
+{"input": " <expression> <mask_0> hill <mask_1> sled <mask_2> stand <mask_3> </expression> ", "output": " hill sled stand alone "}
+{"input": " <expression> <mask_0> player <mask_1> dribbles <mask_2> basketball <mask_3> </expression> ", "output": " A player dribbles the basketball around the court. "}
+{"input": " <expression> <mask_0> kid <mask_1> rolled <mask_2> ball <mask_3> </expression> ", "output": " The kid rolled the ball across the ground. "}
+{"input": " <expression> <mask_0> floated <mask_1> tube <mask_2> river <mask_3> </expression> ", "output": " The girl floated the tube in the river. "}
+{"input": " <expression> <mask_0> Jumping <mask_1> pool <mask_2> standing <mask_3> </expression> ", "output": " Jumping in the pool is more fun than standing "}
+{"input": " <expression> <mask_0> throw <mask_1> pitch <mask_2> game <mask_3> </expression> ", "output": " Don trump wont throw  the fist pitch of the game "}
+{"input": " <expression> <mask_0> ground <mask_1> snow <mask_2> shovelled <mask_3> </expression> ", "output": " The ground is covered by snow, and  The family shovelled together. "}
+{"input": " <expression> <mask_0> stand <mask_1> hold <mask_2> court <mask_3> </expression> ", "output": " All people are to stand as the judge enters to hold court. "}
+{"input": " <expression> <mask_0> kid <mask_1> tooth <mask_2> brush <mask_3> </expression> ", "output": " The little kid had a loose front tooth and the dentist said to brush very carefully. "}
+{"input": " <expression> <mask_0> board <mask_1> flip <mask_2> water <mask_3> </expression> ", "output": " I hit the board and caused it to flip over water. "}
+{"input": " <expression> <mask_0> raises <mask_1> arms <mask_2> jumps <mask_3> </expression> ", "output": " The man raises his arms and jumps in a star motion. "}
+{"input": " <expression> <mask_0> listen <mask_1> music <mask_2> exercise <mask_3> </expression> ", "output": " I love to listen to music as i exercise everyday. "}
+{"input": " <expression> <mask_0> front <mask_1> mirror <mask_2> room <mask_3> </expression> ", "output": " she can stay in front of the mirror in her room all day long "}
+{"input": " <expression> <mask_0> car <mask_1> parks <mask_2> side <mask_3> </expression> ", "output": " The car parks on the right side of the street. "}
+{"input": " <expression> <mask_0> sit <mask_1> table <mask_2> house <mask_3> </expression> ", "output": " The guests wanted to sit at the table in their friends new house. "}
+{"input": " <expression> <mask_0> rode <mask_1> tricycle <mask_2> driveway <mask_3> </expression> ", "output": " The man rode the tricycle into his driveway. "}
+{"input": " <expression> <mask_0> runs <mask_1> path <mask_2> park <mask_3> </expression> ", "output": " A woman runs a path in a park. "}
+{"input": " <expression> <mask_0> walking <mask_1> street <mask_2> instrument <mask_3> </expression> ", "output": " As I was walking downtown to catch the subway, the usual street guy who plays his instrument was not there today. "}
+{"input": " <expression> <mask_0> beach <mask_1> sand <mask_2> castle <mask_3> </expression> ", "output": " While visiting the beach, the child made a sand castle. "}
+{"input": " <expression> <mask_0> stand <mask_1> stick <mask_2> tongue <mask_3> </expression> ", "output": " stand and stick your tongue out said the doctor "}
+{"input": " <expression> <mask_0> jumps <mask_1> rides <mask_2> hill <mask_3> </expression> ", "output": " A man jumps on a horse and rides it up the hill. "}
+{"input": " <expression> <mask_0> sat <mask_1> tattooed <mask_2> arm <mask_3> </expression> ", "output": " The man sat while being tattooed on his arm. "}
+{"input": " <expression> <mask_0> take <mask_1> picture <mask_2> camel <mask_3> </expression> ", "output": " The museum will take the picture of the camel to the basement. "}
+{"input": " <expression> <mask_0> cuts <mask_1> tomato <mask_2> knife <mask_3> </expression> ", "output": " The woman cuts the tomato with a knife. "}
+{"input": " <expression> <mask_0> candle <mask_1> sits <mask_2> table <mask_3> </expression> ", "output": " A candle sits on a table. "}
+{"input": " <expression> <mask_0> dog <mask_1> pulling <mask_2> run <mask_3> </expression> ", "output": " The dog was pulling the person while they were out on a run. "}
+{"input": " <expression> <mask_0> instructor <mask_1> teaches <mask_2> student <mask_3> </expression> ", "output": " an instructor teaches a student "}
+{"input": " <expression> <mask_0> sat <mask_1> rub <mask_2> face <mask_3> </expression> ", "output": " The boy sat down to rub his face. "}
+{"input": " <expression> <mask_0> ball <mask_1> serve <mask_2> tennis <mask_3> </expression> ", "output": " The ball was serve on  a tennis court "}
+{"input": " <expression> <mask_0> violin <mask_1> stand <mask_2> stage <mask_3> </expression> ", "output": " There is a violin stand on the stage. "}
+{"input": " <expression> <mask_0> dog <mask_1> bath <mask_2> bathtub <mask_3> </expression> ", "output": " The filthy dog has to take a bath in the bathtub. "}
+{"input": " <expression> <mask_0> team <mask_1> player <mask_2> shot <mask_3> </expression> ", "output": " In a team a valuable player is one who can make a shot "}
+{"input": " <expression> <mask_0> jumps <mask_1> water <mask_2> lake <mask_3> </expression> ", "output": " A boy jumps over the water in the lake "}
+{"input": " <expression> <mask_0> couple <mask_1> swim <mask_2> pool <mask_3> </expression> ", "output": " The couple love to swim in their new pool. "}
+{"input": " <expression> <mask_0> balls <mask_1> held <mask_2> shirt <mask_3> </expression> ", "output": " The boy picked up small balls from the ground, and held them in his outstretched shirt. "}
+{"input": " <expression> <mask_0> boat <mask_1> float <mask_2> river <mask_3> </expression> ", "output": " The boat float down the river. "}
+{"input": " <expression> <mask_0> boat <mask_1> paddled <mask_2> shore <mask_3> </expression> ", "output": " The lady on the boat paddled to go to the shore. "}
+{"input": " <expression> <mask_0> drinks <mask_1> beer <mask_2> room <mask_3> </expression> ", "output": " A man drinks a can of beer in his room. "}
+{"input": " <expression> <mask_0> team <mask_1> engaged <mask_2> game <mask_3> </expression> ", "output": " the team engaged in the game with confidence "}
+{"input": " <expression> <mask_0> kid <mask_1> skipped <mask_2> rock <mask_3> </expression> ", "output": " The kid skipped a rock at the lake. "}
+{"input": " <expression> <mask_0> wait <mask_1> line <mask_2> slide <mask_3> </expression> ", "output": " The children have to wait in line to use the slide at the play ground. "}
+{"input": " <expression> <mask_0> prepares <mask_1> dish <mask_2> kitchen <mask_3> </expression> ", "output": " The chef prepares the dish in the kitchen "}
+{"input": " <expression> <mask_0> runner <mask_1> jogging <mask_2> roads <mask_3> </expression> ", "output": " The runner prefers jogging on roads. "}
+{"input": " <expression> <mask_0> hamburger <mask_1> table <mask_2> eat <mask_3> </expression> ", "output": " The girl picked up the hamburger off the table to eat. "}
+{"input": " <expression> <mask_0> sits <mask_1> backseat <mask_2> car <mask_3> </expression> ", "output": " The little kid sits in the backseat of the car. "}
+{"input": " <expression> <mask_0> ride <mask_1> horses <mask_2> tree <mask_3> </expression> ", "output": " The girls took a ride on the horses to the tree by the lake. "}
+{"input": " <expression> <mask_0> cook <mask_1> kitchen <mask_2> stove <mask_3> </expression> ", "output": " It is hard to cook in a kitchen if you do not have a stove. "}
+{"input": " <expression> <mask_0> body <mask_1> canoe <mask_2> water <mask_3> </expression> ", "output": " a man sees the body of a boy in a canoe on the water "}
+{"input": " <expression> <mask_0> performer <mask_1> performed <mask_2> stage <mask_3> </expression> ", "output": " The performer performed on stage. "}
+{"input": " <expression> <mask_0> throws <mask_1> ball <mask_2> side <mask_3> </expression> ", "output": " A man throws a ball to the side. "}
+{"input": " <expression> <mask_0> pulled <mask_1> raft <mask_2> water <mask_3> </expression> ", "output": " The man pulled the raft out of the water. "}
+{"input": " <expression> <mask_0> sat <mask_1> tree <mask_2> held <mask_3> </expression> ", "output": " I sat at the base of the tree and held my book in front of me. "}
+{"input": " <expression> <mask_0> Dig <mask_1> plant <mask_2> tree <mask_3> </expression> ", "output": " Dig the dirt and plant the tree. "}
+{"input": " <expression> <mask_0> hair <mask_1> cut <mask_2> style <mask_3> </expression> ", "output": " The boy in the chair is getting a hair cut as he wanted a new style. "}
+{"input": " <expression> <mask_0> kid <mask_1> tossed <mask_2> ball <mask_3> </expression> ", "output": " The kid tossed the ball across the court. "}
+{"input": " <expression> <mask_0> tool <mask_1> work <mask_2> wood <mask_3> </expression> ", "output": " A woodworker uses a tool to work on wood and make sculptures. "}
+{"input": " <expression> <mask_0> ran <mask_1> jumped <mask_2> pile <mask_3> </expression> ", "output": " The boy ran and jumped into the pile of leaves. "}
+{"input": " <expression> <mask_0> shirt <mask_1> floor <mask_2> sit <mask_3> </expression> ", "output": " Her shirt fell to the floor, in the place that I usually sit. "}
+{"input": " <expression> <mask_0> read <mask_1> paper <mask_2> table <mask_3> </expression> ", "output": " the man read the paper sitting at the table. "}
+{"input": " <expression> <mask_0> food <mask_1> table <mask_2> restaurant <mask_3> </expression> ", "output": " The food was served on the table at the restaurant. "}
+{"input": " <expression> <mask_0> held <mask_1> bow <mask_2> shoot <mask_3> </expression> ", "output": " I held the bow waiting to shoot. "}
+{"input": " <expression> <mask_0> crowd <mask_1> watched <mask_2> team <mask_3> </expression> ", "output": " The crowd watched the soccer team play the game. "}
+{"input": " <expression> <mask_0> bikini <mask_1> volleyball <mask_2> beach <mask_3> </expression> ", "output": " A woman wearing a bikini plays volleyball on the beach. "}
+{"input": " <expression> <mask_0> held <mask_1> wood <mask_2> hand <mask_3> </expression> ", "output": " The girl held the wood in her hand. "}
+{"input": " <expression> <mask_0> stood <mask_1> front <mask_2> grass <mask_3> </expression> ", "output": " She stood in front of the grass. "}
+{"input": " <expression> <mask_0> stood <mask_1> ski <mask_2> snow <mask_3> </expression> ", "output": " I stood at the Midi-Pyrenees ski resort and came down skiing as snow hit my face, gently wetting it. "}
+{"input": " <expression> <mask_0> looked <mask_1> items <mask_2> store <mask_3> </expression> ", "output": " The boy looked at some items in the store. "}
+{"input": " <expression> <mask_0> talk <mask_1> shake <mask_2> hand <mask_3> </expression> ", "output": " talk but dont shake your hand "}
+{"input": " <expression> <mask_0> sit <mask_1> room <mask_2> keyboard <mask_3> </expression> ", "output": " He would sit alone in his room with his keyboard. "}
+{"input": " <expression> <mask_0> Cutting <mask_1> forest <mask_2> woods <mask_3> </expression> ", "output": " Cutting the forest will get re off the woods "}
+{"input": " <expression> <mask_0> dance <mask_1> band <mask_2> music <mask_3> </expression> ", "output": " The girl will dance when the band plays music. "}
+{"input": " <expression> <mask_0> dog <mask_1> street <mask_2> leash <mask_3> </expression> ", "output": " The dog is walking down the street on a leash. "}
+{"input": " <expression> <mask_0> stand <mask_1> wait <mask_2> looked <mask_3> </expression> ", "output": " The little brother had to stand and wait while the older sister looked for their parents. "}
+{"input": " <expression> <mask_0> hold <mask_1> dog <mask_2> water <mask_3> </expression> ", "output": " The man hold the dog while getting water. "}
+{"input": " <expression> <mask_0> ball <mask_1> hit <mask_2> bounced <mask_3> </expression> ", "output": " The ball hit the wall and bounced off. "}
+{"input": " <expression> <mask_0> sets <mask_1> table <mask_2> restaurant <mask_3> </expression> ", "output": " The waiter sets the table at the restaurant. "}
+{"input": " <expression> <mask_0> Jump <mask_1> trampoline <mask_2> air <mask_3> </expression> ", "output": " Jump on the trampoline and fly in the air. "}
+{"input": " <expression> <mask_0> run <mask_1> jump <mask_2> water <mask_3> </expression> ", "output": " A group of kids run and jump into the water. "}
+{"input": " <expression> <mask_0> day <mask_1> riding <mask_2> waves <mask_3> </expression> ", "output": " The teenager spent the day riding the ocean waves on his surfboard. "}
+{"input": " <expression> <mask_0> lady <mask_1> lifts <mask_2> weight <mask_3> </expression> ", "output": " The lady lifts up the weight. "}
+{"input": " <expression> <mask_0> athlete <mask_1> run <mask_2> race <mask_3> </expression> ", "output": " The athlete will run a race. "}
+{"input": " <expression> <mask_0> skateboard <mask_1> middle <mask_2> street <mask_3> </expression> ", "output": " the skateboard is inthe middle of the street "}
+{"input": " <expression> <mask_0> couple <mask_1> room <mask_2> kid <mask_3> </expression> ", "output": " The couple in the room has a kid. "}
+{"input": " <expression> <mask_0> wear <mask_1> short <mask_2> room <mask_3> </expression> ", "output": " I like to wear pajamas when I watch short films in my room. "}
+{"input": " <expression> <mask_0> outfits <mask_1> performing <mask_2> stage <mask_3> </expression> ", "output": " The artist and his band wearing crazy outfits was performing on the stage "}
+{"input": " <expression> <mask_0> net <mask_1> held <mask_2> water <mask_3> </expression> ", "output": " The net held only fish once the water drained out. "}
+{"input": " <expression> <mask_0> fire <mask_1> front <mask_2> stand <mask_3> </expression> ", "output": " There was a fire in the front of building, the people were evacuated and had to stand outside. "}
+{"input": " <expression> <mask_0> dog <mask_1> park <mask_2> eats <mask_3> </expression> ", "output": " A dog went to the park and eats a treat. "}
+{"input": " <expression> <mask_0> machine <mask_1> gym <mask_2> use <mask_3> </expression> ", "output": " The machine at the gym I wanted to use didn't work. "}
+{"input": " <expression> <mask_0> car <mask_1> street <mask_2> front <mask_3> </expression> ", "output": " The girl parked her car on the side of the street in front of the house. "}
+{"input": " <expression> <mask_0> wears <mask_1> harness <mask_2> wall <mask_3> </expression> ", "output": " The man wears a harness as he climbs the rock wall. "}
+{"input": " <expression> <mask_0> lady <mask_1> fixes <mask_2> hair <mask_3> </expression> ", "output": " A lady fixes her hair. "}
+{"input": " <expression> <mask_0> floor <mask_1> room <mask_2> stand <mask_3> </expression> ", "output": " The tile floor in the room was broken, so the students could no longer stand on it. "}
+{"input": " <expression> <mask_0> sits <mask_1> chair <mask_2> beard <mask_3> </expression> ", "output": " The man sits in a chair to trim his beard. "}
+{"input": " <expression> <mask_0> kid <mask_1> walked <mask_2> water <mask_3> </expression> ", "output": " The kid walked up to the water. "}
+{"input": " <expression> <mask_0> rider <mask_1> rides <mask_2> hill <mask_3> </expression> ", "output": " The rider rides a sled down the hill. "}
+{"input": " <expression> <mask_0> sit <mask_1> hold <mask_2> microphone <mask_3> </expression> ", "output": " The nervous singer chose to sit and hold the microphone. "}
+{"input": " <expression> <mask_0> chop <mask_1> logs <mask_2> wood <mask_3> </expression> ", "output": " A man uses an ax to chop logs into fire wood. "}
+{"input": " <expression> <mask_0> room <mask_1> lay <mask_2> bed <mask_3> </expression> ", "output": " The girls goes to her room to lay in bed. "}
+{"input": " <expression> <mask_0> clearing <mask_1> path <mask_2> snowed <mask_3> </expression> ", "output": " My dad was clearing the path after it snowed. "}
+{"input": " <expression> <mask_0> diver <mask_1> swims <mask_2> ocean <mask_3> </expression> ", "output": " A diver swims out of the ocean, back to shore. "}
+{"input": " <expression> <mask_0> paddles <mask_1> raft <mask_2> river <mask_3> </expression> ", "output": " A man paddles a raft down the river. "}
+{"input": " <expression> <mask_0> turns <mask_1> throws <mask_2> ball <mask_3> </expression> ", "output": " A player turns towards home plate and throws the ball. "}
+{"input": " <expression> <mask_0> water <mask_1> running <mask_2> faucet <mask_3> </expression> ", "output": " The water was running from the faucet. "}
+{"input": " <expression> <mask_0> football <mask_1> game <mask_2> watch <mask_3> </expression> ", "output": " Every sunday there is a great football  game to watch  on tv "}
+{"input": " <expression> <mask_0> pressing <mask_1> weights <mask_2> gym <mask_3> </expression> ", "output": " The man is pressing weights at the gym. "}
+{"input": " <expression> <mask_0> sits <mask_1> swing <mask_2> pushes <mask_3> </expression> ", "output": " The boy sits on the swing and his mother pushes him. "}
+{"input": " <expression> <mask_0> wash <mask_1> hands <mask_2> turn <mask_3> </expression> ", "output": " We need to wash our hands after we turn he screw driver. "}
+{"input": " <expression> <mask_0> mother <mask_1> sits <mask_2> chair <mask_3> </expression> ", "output": " The mother sits on a chair. "}
+{"input": " <expression> <mask_0> pool <mask_1> swim <mask_2> wear <mask_3> </expression> ", "output": " A girl went to the pool in swim wear. "}
+{"input": " <expression> <mask_0> sharpens <mask_1> knife <mask_2> cut <mask_3> </expression> ", "output": " The man sharpens his knife so he can cut an apple. "}
+{"input": " <expression> <mask_0> slept <mask_1> seat <mask_2> car <mask_3> </expression> ", "output": " The young girl slept in her seat as the car whizzed by the streetlights "}
+{"input": " <expression> <mask_0> teaches <mask_1> tie <mask_2> shoes <mask_3> </expression> ", "output": " The mok teaches her child how to tie her shoes. "}
+{"input": " <expression> <mask_0> dog <mask_1> pull <mask_2> race <mask_3> </expression> ", "output": " dog pull out to first in the race "}
+{"input": " <expression> <mask_0> wears <mask_1> sunglasses <mask_2> indoors <mask_3> </expression> ", "output": " The blind man wears sunglasses indoors. "}
+{"input": " <expression> <mask_0> lady <mask_1> cut <mask_2> hair <mask_3> </expression> ", "output": " The lady cut my hair for donation. "}
+{"input": " <expression> <mask_0> sings <mask_1> song <mask_2> microphone <mask_3> </expression> ", "output": " The woman sings her new song into the microphone. "}
+{"input": " <expression> <mask_0> game <mask_1> cards <mask_2> shuffled <mask_3> </expression> ", "output": " To play this game, the cards first have to be shuffled. "}
+{"input": " <expression> <mask_0> outfit <mask_1> dances <mask_2> stage <mask_3> </expression> ", "output": " A ballerina, wearing a pink outfit, dances on a stage. "}
+{"input": " <expression> <mask_0> short <mask_1> wears <mask_2> shoes <mask_3> </expression> ", "output": " The short man wears brown shoes. "}
+{"input": " <expression> <mask_0> ground <mask_1> sitting <mask_2> standing <mask_3> </expression> ", "output": " A few people in the ground were sitting while a few were standing. "}
+{"input": " <expression> <mask_0> sit <mask_1> blow <mask_2> smoke <mask_3> </expression> ", "output": " I sit at the campsite and blow the smoke from the fire away from my face. "}
+{"input": " <expression> <mask_0> wear <mask_1> guitar <mask_2> sits <mask_3> </expression> ", "output": " he wear's the guitar strap as he sits down. "}
+{"input": " <expression> <mask_0> peels <mask_1> potatoes <mask_2> bowl <mask_3> </expression> ", "output": " A girl peels some potatoes and then places them in a bowl. "}
+{"input": " <expression> <mask_0> kids <mask_1> talk <mask_2> walk <mask_3> </expression> ", "output": " Two kids talk as they walk down the hall. "}
+{"input": " <expression> <mask_0> worker <mask_1> painted <mask_2> wall <mask_3> </expression> ", "output": " The worker painted the wall white yesterday. "}
+{"input": " <expression> <mask_0> sits <mask_1> ground <mask_2> watches <mask_3> </expression> ", "output": " The young girl sits on the ground and watches her friends. "}
+{"input": " <expression> <mask_0> sits <mask_1> bed <mask_2> book <mask_3> </expression> ", "output": " as he sits on his bed he reads his book quietly "}
+{"input": " <expression> <mask_0> player <mask_1> talk <mask_2> field <mask_3> </expression> ", "output": " The football player liked to talk a lot while on the field "}
+{"input": " <expression> <mask_0> climbed <mask_1> top <mask_2> cliff <mask_3> </expression> ", "output": " The boy climbed to the top of the cliff. "}
+{"input": " <expression> <mask_0> goal <mask_1> field <mask_2> score <mask_3> </expression> ", "output": " The goal of soccer players playing in the field is to score. "}
+{"input": " <expression> <mask_0> brush <mask_1> scrub <mask_2> shoe <mask_3> </expression> ", "output": " The man used the brush to scrub his shoe. "}
+{"input": " <expression> <mask_0> Sit <mask_1> hold <mask_2> smile <mask_3> </expression> ", "output": " Sit there and hold that smile while I take your picture. "}
+{"input": " <expression> <mask_0> sits <mask_1> side <mask_2> table <mask_3> </expression> ", "output": " The man sits at the side of the table. "}
+{"input": " <expression> <mask_0> held <mask_1> cup <mask_2> talked <mask_3> </expression> ", "output": " I held the cup of coffee while i talked to my wife "}
+{"input": " <expression> <mask_0> kid <mask_1> swing <mask_2> park <mask_3> </expression> ", "output": " The kid loves to swing at the park. "}
+{"input": " <expression> <mask_0> watch <mask_1> perform <mask_2> music <mask_3> </expression> ", "output": " The girls will watch the band perform the music. "}
+{"input": " <expression> <mask_0> stand <mask_1> look <mask_2> distance <mask_3> </expression> ", "output": " If you stand here and look the farthest distance you can, past the mountain, you will see the flying eagle. "}
+{"input": " <expression> <mask_0> snake <mask_1> draped <mask_2> shoulder <mask_3> </expression> ", "output": " The snake handler draped the python over his shoulder. "}
+{"input": " <expression> <mask_0> crowd <mask_1> cheer <mask_2> performance <mask_3> </expression> ", "output": " The crowd will cheer the performance. "}
+{"input": " <expression> <mask_0> audience <mask_1> guitar <mask_2> stage <mask_3> </expression> ", "output": " The teenager wows the audience by playing his guitar on stage at the talent show. "}
+{"input": " <expression> <mask_0> kid <mask_1> ball <mask_2> court <mask_3> </expression> ", "output": " The young kid hit the ball into the opponents court. "}
+{"input": " <expression> <mask_0> kid <mask_1> dances <mask_2> stage <mask_3> </expression> ", "output": " The kid dances on the stage. "}
+{"input": " <expression> <mask_0> crowd <mask_1> competed <mask_2> front <mask_3> </expression> ", "output": " The crowd competed who will be in the front "}
+{"input": " <expression> <mask_0> cross <mask_1> river <mask_2> rocks <mask_3> </expression> ", "output": " You can cross the river on he rocks. "}
+{"input": " <expression> <mask_0> player <mask_1> shot <mask_2> game <mask_3> </expression> ", "output": " A player makes the final shot and wins the game. "}
+{"input": " <expression> <mask_0> holds <mask_1> stands <mask_2> watches <mask_3> </expression> ", "output": " The boy holds a cup while he stands and watches the game. "}
+{"input": " <expression> <mask_0> wear <mask_1> gear <mask_2> welding <mask_3> </expression> ", "output": " The man has to wear the right gear while welding. "}
+{"input": " <expression> <mask_0> surfer <mask_1> ocean <mask_2> catch <mask_3> </expression> ", "output": " The surfer went to the ocean to catch a wave to surf. "}
+{"input": " <expression> <mask_0> boat <mask_1> carried <mask_2> water <mask_3> </expression> ", "output": " The large boat carried items or water. "}
+{"input": " <expression> <mask_0> room <mask_1> gives <mask_2> presentation <mask_3> </expression> ", "output": " The woman commands the room while she gives her presentation. "}
+{"input": " <expression> <mask_0> applied <mask_1> plaster <mask_2> wall <mask_3> </expression> ", "output": " The worker applied plaster to the wall. "}
+{"input": " <expression> <mask_0> guitar <mask_1> singed <mask_2> shirt <mask_3> </expression> ", "output": " The guitar player singed his shirt "}
+{"input": " <expression> <mask_0> roll <mask_1> ball <mask_2> ground <mask_3> </expression> ", "output": " Let's roll the ball on the ground. "}
+{"input": " <expression> <mask_0> painted <mask_1> picture <mask_2> lady <mask_3> </expression> ", "output": " A man painted a picture of a beautiful lady "}
+{"input": " <expression> <mask_0> game <mask_1> player <mask_2> crowd <mask_3> </expression> ", "output": " A woman enjoys a game where there is a player and a crowd. "}
+{"input": " <expression> <mask_0> Kid <mask_1> look <mask_2> shirts <mask_3> </expression> ", "output": " Kid look at the shirts  at the store "}
+{"input": " <expression> <mask_0> stand <mask_1> shore <mask_2> water <mask_3> </expression> ", "output": " I stand by the shore near the water. "}
+{"input": " <expression> <mask_0> sits <mask_1> table <mask_2> bags <mask_3> </expression> ", "output": " A man sits on the table with the bags. "}
+{"input": " <expression> <mask_0> laid <mask_1> blanket <mask_2> bed <mask_3> </expression> ", "output": " I laid the blanket on the bed. "}
+{"input": " <expression> <mask_0> kitchen <mask_1> knife <mask_2> cut <mask_3> </expression> ", "output": " She used a kitchen knife to cut the food. "}
+{"input": " <expression> <mask_0> demonstrated <mask_1> technique <mask_2> talking <mask_3> </expression> ", "output": " The climbing instructor demonstrated how to use proper climbing technique, while talking about the sport as well. "}
+{"input": " <expression> <mask_0> cutting <mask_1> board <mask_2> slice <mask_3> </expression> ", "output": " The chef used a cutting board to slice the vegetables for his salad. "}
+{"input": " <expression> <mask_0> throws <mask_1> ball <mask_2> fetches <mask_3> </expression> ", "output": " The boy throws the ball and the dog fetches it. "}
+{"input": " <expression> <mask_0> laughs <mask_1> rides <mask_2> bike <mask_3> </expression> ", "output": " The pilgrim laughs as he rides his bike in circles. "}
+{"input": " <expression> <mask_0> game <mask_1> hockey <mask_2> player <mask_3> </expression> ", "output": " A game of hockey needs at least one player. "}
+{"input": " <expression> <mask_0> sit <mask_1> room <mask_2> television <mask_3> </expression> ", "output": " The man sit down in the room to watch television. "}
+{"input": " <expression> <mask_0> stood <mask_1> watched <mask_2> tree <mask_3> </expression> ", "output": " I stood and watched the tree rustle in the wind. "}
+{"input": " <expression> <mask_0> sit <mask_1> cover <mask_2> face <mask_3> </expression> ", "output": " The lady will sit down and cover her face. "}
+{"input": " <expression> <mask_0> run <mask_1> field <mask_2> hockey <mask_3> </expression> ", "output": " The players run around the field playing hockey. "}
+{"input": " <expression> <mask_0> gives <mask_1> hugs <mask_2> kisses <mask_3> </expression> ", "output": " a boy gives hugs and kisses to his girlfriend "}
+{"input": " <expression> <mask_0> front <mask_1> audience <mask_2> singed <mask_3> </expression> ", "output": " The front of the audience gasped as the performer singed himself. "}
+{"input": " <expression> <mask_0> climbed <mask_1> stood <mask_2> wall <mask_3> </expression> ", "output": " The man climbed the ladder and stood on top of the wall. "}
+{"input": " <expression> <mask_0> shook <mask_1> head <mask_2> watched <mask_3> </expression> ", "output": " I shook my head as I watched my friend accidentally walk into a pole. "}
+{"input": " <expression> <mask_0> dance <mask_1> competition <mask_2> perform <mask_3> </expression> ", "output": " There is a dance competition where the little girl has to perform her routine "}
+{"input": " <expression> <mask_0> raft <mask_1> body <mask_2> water <mask_3> </expression> ", "output": " The man uses a raft to move around in the big body of water "}
+{"input": " <expression> <mask_0> stand <mask_1> front <mask_2> background <mask_3> </expression> ", "output": " The girl wanted to stand in the front of the stage but was placed in the background. "}
+{"input": " <expression> <mask_0> kid <mask_1> field <mask_2> baseball <mask_3> </expression> ", "output": " The kid ran into the field to catch a baseball. "}
+{"input": " <expression> <mask_0> put <mask_1> hand <mask_2> head <mask_3> </expression> ", "output": " The man put his hand on his head. "}
+{"input": " <expression> <mask_0> looked <mask_1> window <mask_2> house <mask_3> </expression> ", "output": " The boy looked out of the window sadly because the rain kept him inside the house. "}
+{"input": " <expression> <mask_0> holds <mask_1> walk <mask_2> room <mask_3> </expression> ", "output": " a man holds the door for the next person as they walk in the room "}
+{"input": " <expression> <mask_0> bubble <mask_1> wand <mask_2> blow <mask_3> </expression> ", "output": " The child uses the bubble wand to blow bubbles. "}
+{"input": " <expression> <mask_0> drill <mask_1> piece <mask_2> wood <mask_3> </expression> ", "output": " The construction workers could not drill the piece into the wood. "}
+{"input": " <expression> <mask_0> ball <mask_1> pass <mask_2> court <mask_3> </expression> ", "output": " The ball was meant to pass the court and not hit it. "}
+{"input": " <expression> <mask_0> singer <mask_1> song <mask_2> singed <mask_3> </expression> ", "output": " The singer sings a song but singed her hair on a candle. "}
+{"input": " <expression> <mask_0> hit <mask_1> ball <mask_2> turn <mask_3> </expression> ", "output": " a man hit ball and turn "}
+{"input": " <expression> <mask_0> catch <mask_1> fish <mask_2> pole <mask_3> </expression> ", "output": " A man can catch fish with a fishing pole. "}
+{"input": " <expression> <mask_0> worked <mask_1> car <mask_2> garage <mask_3> </expression> ", "output": " The man worked on his car in the garage all afternoon. "}
+{"input": " <expression> <mask_0> cut <mask_1> meat <mask_2> kitchen <mask_3> </expression> ", "output": " A person cut meat in the kitchen. "}
+{"input": " <expression> <mask_0> stands <mask_1> riding <mask_2> wave <mask_3> </expression> ", "output": " He stands on he's board while riding the wave. "}
+{"input": " <expression> <mask_0> shook <mask_1> head <mask_2> walking <mask_3> </expression> ", "output": " The man shook his head while walking away. "}
+{"input": " <expression> <mask_0> crowd <mask_1> claps <mask_2> hands <mask_3> </expression> ", "output": " a man in the crowd claps with the hands "}
+{"input": " <expression> <mask_0> boat <mask_1> moves <mask_2> water <mask_3> </expression> ", "output": " The boat moves along the water. "}
+{"input": " <expression> <mask_0> holds <mask_1> beer <mask_2> glass <mask_3> </expression> ", "output": " The man holds his beer glass at the party. "}
+{"input": " <expression> <mask_0> slide <mask_1> door <mask_2> open <mask_3> </expression> ", "output": " I can slide the door open. "}
+{"input": " <expression> <mask_0> sitting <mask_1> looking <mask_2> bed <mask_3> </expression> ", "output": " The girl was sitting in the couch and looking at a bed in a catalog. "}
+{"input": " <expression> <mask_0> look <mask_1> window <mask_2> car <mask_3> </expression> ", "output": " If you look through the window of a moving car, you could get disoriented. "}
+{"input": " <expression> <mask_0> watch <mask_1> jump <mask_2> crowd <mask_3> </expression> ", "output": " The people in the bleachers watch the cheerleaders jump up and down in front of the crowd. "}
+{"input": " <expression> <mask_0> laid <mask_1> couch <mask_2> sleep <mask_3> </expression> ", "output": " The boy laid on the couch and went to sleep. "}
+{"input": " <expression> <mask_0> hold <mask_1> stand <mask_2> table <mask_3> </expression> ", "output": " He took a hold of the leg stand of the table "}
+{"input": " <expression> <mask_0> shoots <mask_1> hoop <mask_2> court <mask_3> </expression> ", "output": " He shoots the ball straight into the hoop and the entire court goes wild. "}
+{"input": " <expression> <mask_0> kid <mask_1> climbs <mask_2> ladder <mask_3> </expression> ", "output": " A kid climbs a ladder to picks some apples from a tree. "}
+{"input": " <expression> <mask_0> truck <mask_1> poured <mask_2> concrete <mask_3> </expression> ", "output": " The truck poured the concrete onto the pavement. "}
+{"input": " <expression> <mask_0> drives <mask_1> scooter <mask_2> street <mask_3> </expression> ", "output": " A man drives a scooter down the street. "}
+{"input": " <expression> <mask_0> player <mask_1> passes <mask_2> puck <mask_3> </expression> ", "output": " The player passes the puck in the hockey game. "}
+{"input": " <expression> <mask_0> threw <mask_1> ball <mask_2> teammate <mask_3> </expression> ", "output": " Michael threw the ball to his open teammate. "}
+{"input": " <expression> <mask_0> fixed <mask_1> hair <mask_2> mirror <mask_3> </expression> ", "output": " The woman fixed her hair whilst looking in the mirror. "}
+{"input": " <expression> <mask_0> Water <mask_1> front <mask_2> body <mask_3> </expression> ", "output": " Water covered the front of a boy's body. "}
+{"input": " <expression> <mask_0> cowboy <mask_1> lasso <mask_2> calf <mask_3> </expression> ", "output": " The cowboy has to lasso the calf quickly. "}
+{"input": " <expression> <mask_0> lady <mask_1> danced <mask_2> front <mask_3> </expression> ", "output": " The lady danced in front of the crowd like no one was watching. "}
+{"input": " <expression> <mask_0> paint <mask_1> paint <mask_2> picture <mask_3> </expression> ", "output": " The artist uses paint to paint a picture. "}
+{"input": " <expression> <mask_0> kids <mask_1> sliding <mask_2> hill <mask_3> </expression> ", "output": " The kids are sliding down the hill. "}
+{"input": " <expression> <mask_0> policeman <mask_1> directs <mask_2> traffic <mask_3> </expression> ", "output": " The policeman directs traffic during rush hour. "}
+{"input": " <expression> <mask_0> climbed <mask_1> tree <mask_2> looked <mask_3> </expression> ", "output": " as he climbed up the tree, he looked down in fear "}
+{"input": " <expression> <mask_0> ride <mask_1> horse <mask_2> time <mask_3> </expression> ", "output": " The jockey will ride the horse one time around the track. "}
+{"input": " <expression> <mask_0> sit <mask_1> talk <mask_2> listens <mask_3> </expression> ", "output": " the woman friends sit and talk as she listens to them. "}
+{"input": " <expression> <mask_0> toddler <mask_1> ate <mask_2> chair <mask_3> </expression> ", "output": " The toddler ate food whilst in his chair. "}
+{"input": " <expression> <mask_0> car <mask_1> stops <mask_2> street <mask_3> </expression> ", "output": " A car stops on the street at the stop sign. "}
+{"input": " <expression> <mask_0> climbs <mask_1> rope <mask_2> waterfall <mask_3> </expression> ", "output": " The monkey climbs the rope hanging from the waterfall "}
+{"input": " <expression> <mask_0> Team <mask_1> performed <mask_2> routine <mask_3> </expression> ", "output": " Team Sakura performed the weekly routine on Saturday at 10:00 am. "}
+{"input": " <expression> <mask_0> wear <mask_1> shirt <mask_2> tie <mask_3> </expression> ", "output": " The man wear shirt and tie for an interview. "}
+{"input": " <expression> <mask_0> board <mask_1> fell <mask_2> riding <mask_3> </expression> ", "output": " The boy carrying the white board fell over while riding the bicycle. "}
+{"input": " <expression> <mask_0> rode <mask_1> horse <mask_2> river <mask_3> </expression> ", "output": " The man rode the horse to the shallow river. "}
+{"input": " <expression> <mask_0> toddler <mask_1> sit <mask_2> lap <mask_3> </expression> ", "output": " A toddler can sit on the lap of his mother. "}
+{"input": " <expression> <mask_0> washes <mask_1> car <mask_2> hose <mask_3> </expression> ", "output": " The man washes his car with a hose. "}
+{"input": " <expression> <mask_0> leg <mask_1> floor <mask_2> sat <mask_3> </expression> ", "output": " The person's leg touched the floor when he sat down. "}
+{"input": " <expression> <mask_0> raised <mask_1> arm <mask_2> hand <mask_3> </expression> ", "output": " I raised my arm so the teacher would notice my hand was up "}
+{"input": " <expression> <mask_0> Sparks <mask_1> fly <mask_2> weld <mask_3> </expression> ", "output": " Sparks will fly when you weld. "}
+{"input": " <expression> <mask_0> shirt <mask_1> wear <mask_2> head <mask_3> </expression> ", "output": " The woman pulled the shirt she was going to wear over her head to get it on "}
+{"input": " <expression> <mask_0> folds <mask_1> hand <mask_2> standing <mask_3> </expression> ", "output": " A boy folds a hand towel while standing. "}
+{"input": " <expression> <mask_0> routine <mask_1> skater <mask_2> performing <mask_3> </expression> ", "output": " the routine of a skater consists in performing "}
+{"input": " <expression> <mask_0> sit <mask_1> chair <mask_2> floor <mask_3> </expression> ", "output": " If a woman wants to sit down, the woman can sit on a chair or on the floor. "}
+{"input": " <expression> <mask_0> ride <mask_1> bulls <mask_2> crowd <mask_3> </expression> ", "output": " Whenever the cowboys ride bulls at the county fair the crowd goes wild. "}
+{"input": " <expression> <mask_0> prepares <mask_1> race <mask_2> run <mask_3> </expression> ", "output": " The woman prepares to race, she gets ready to run. "}
+{"input": " <expression> <mask_0> take <mask_1> part <mask_2> game <mask_3> </expression> ", "output": " The friends take part in a fun board game. "}
+{"input": " <expression> <mask_0> team <mask_1> baseball <mask_2> field <mask_3> </expression> ", "output": " The team plays baseball in a new field "}
+{"input": " <expression> <mask_0> toddler <mask_1> looks <mask_2> book <mask_3> </expression> ", "output": " The toddler looks at the book. "}
+{"input": " <expression> <mask_0> walk <mask_1> hold <mask_2> phone <mask_3> </expression> ", "output": " The teenager was going to put her walk on hold so she could find her phone. "}
+{"input": " <expression> <mask_0> wore <mask_1> hat <mask_2> drove <mask_3> </expression> ", "output": " The man wore a hat whilst he drove the car. "}
+{"input": " <expression> <mask_0> tool <mask_1> cut <mask_2> piece <mask_3> </expression> ", "output": " A lady used a scissors as a tool to cut a piece of thread. "}
+{"input": " <expression> <mask_0> swim <mask_1> suit <mask_2> pool <mask_3> </expression> ", "output": " The boy needed a swim suit to go to the pool party. "}
+{"input": " <expression> <mask_0> sit <mask_1> plate <mask_2> food <mask_3> </expression> ", "output": " I sit down to eat my plate of food. "}
+{"input": " <expression> <mask_0> cook <mask_1> pan <mask_2> kitchen <mask_3> </expression> ", "output": " The cook forgot to bring the extra pan to the kitchen. "}
+{"input": " <expression> <mask_0> blew <mask_1> candles <mask_2> cupcake <mask_3> </expression> ", "output": " The child blew the candles out on the birthday cupcake. "}
+{"input": " <expression> <mask_0> ball <mask_1> game <mask_2> gym <mask_3> </expression> ", "output": " We need a ball to play the soccer game in the gym. "}
+{"input": " <expression> <mask_0> golfer <mask_1> ball <mask_2> hole <mask_3> </expression> ", "output": " A golfer putts a ball into a hole. "}
+{"input": " <expression> <mask_0> street <mask_1> covered <mask_2> snow <mask_3> </expression> ", "output": " The street was covered in snow. "}
+{"input": " <expression> <mask_0> performs <mask_1> routine <mask_2> mats <mask_3> </expression> ", "output": " The girl performs her routine on the mats in the gym. "}
+{"input": " <expression> <mask_0> front <mask_1> eat <mask_2> food <mask_3> </expression> ", "output": " In the front yard we eat food at our bbq. "}
+{"input": " <expression> <mask_0> stage <mask_1> costume <mask_2> stand <mask_3> </expression> ", "output": " The boy is on the stage in his costume behind the music stand. "}
+{"input": " <expression> <mask_0> surfboard <mask_1> water <mask_2> wave <mask_3> </expression> ", "output": " The surfboard coasted smoothly across the water as the wave built up "}
+{"input": " <expression> <mask_0> rides <mask_1> scooter <mask_2> hill <mask_3> </expression> ", "output": " The boy rides the scooter on a hill. "}
+{"input": " <expression> <mask_0> bridge <mask_1> body <mask_2> water <mask_3> </expression> ", "output": " The bridge spans across a body of water. "}
+{"input": " <expression> <mask_0> holds <mask_1> pair <mask_2> shoes <mask_3> </expression> ", "output": " A man holds a pair of shoes waiting for his son to get off the slide. "}
+{"input": " <expression> <mask_0> rode <mask_1> bike <mask_2> river <mask_3> </expression> ", "output": " The boy rode his bike up the river. "}
+{"input": " <expression> <mask_0> decorate <mask_1> talk <mask_2> tree <mask_3> </expression> ", "output": " decorate for the holiday will be a good talk even for tree "}
+{"input": " <expression> <mask_0> sit <mask_1> guitar <mask_2> watched <mask_3> </expression> ", "output": " The boy sit and play the guitar; while the girls watched. "}
+{"input": " <expression> <mask_0> sit <mask_1> kitchen <mask_2> table <mask_3> </expression> ", "output": " Mom asked us to go sit at the kitchen table so that we could eat breakfast. "}
+{"input": " <expression> <mask_0> riding <mask_1> vehicle <mask_2> wear <mask_3> </expression> ", "output": " When riding this vehicle, you must wear a helmet. "}
+{"input": " <expression> <mask_0> ate <mask_1> plate <mask_2> spaghetti <mask_3> </expression> ", "output": " He ate from the plate of spaghetti. "}
+{"input": " <expression> <mask_0> suit <mask_1> tie <mask_2> sits <mask_3> </expression> ", "output": " A man dressed with a suit and a tie sits in front of me in the metro. "}
+{"input": " <expression> <mask_0> wear <mask_1> suit <mask_2> ocean <mask_3> </expression> ", "output": " One should not wear a full suit to the ocean. "}
+{"input": " <expression> <mask_0> climbed <mask_1> flight <mask_2> stairs <mask_3> </expression> ", "output": " The boy climbed a flight of stairs. "}
+{"input": " <expression> <mask_0> pull <mask_1> sled <mask_2> hill <mask_3> </expression> ", "output": " The girl had to pull the sled up the hill. "}
+{"input": " <expression> <mask_0> feed <mask_1> sit <mask_2> highchairs <mask_3> </expression> ", "output": " Mothers feed their babies while they sit in highchairs. "}
+{"input": " <expression> <mask_0> dog <mask_1> holds <mask_2> frisbee <mask_3> </expression> ", "output": " The dog holds the frisbee in it's mouth. "}
+{"input": " <expression> <mask_0> sing <mask_1> stage <mask_2> stand <mask_3> </expression> ", "output": " They sing from the stage they stand on. "}
+{"input": " <expression> <mask_0> ladder <mask_1> trim <mask_2> hedge <mask_3> </expression> ", "output": " She climbed up the ladder to trim the hedge. "}
+{"input": " <expression> <mask_0> sits <mask_1> top <mask_2> horse <mask_3> </expression> ", "output": " The woman sits on top of the horse. "}
+{"input": " <expression> <mask_0> rides <mask_1> snowmobile <mask_2> mountain <mask_3> </expression> ", "output": " The woman rides her snowmobile down the mountain. "}
+{"input": " <expression> <mask_0> duck <mask_1> swimming <mask_2> lake <mask_3> </expression> ", "output": " The duck is swimming in a lake. "}
+{"input": " <expression> <mask_0> crowd <mask_1> cheered <mask_2> event <mask_3> </expression> ", "output": " The crowd cheered during the event. "}
+{"input": " <expression> <mask_0> shirt <mask_1> hold <mask_2> bottle <mask_3> </expression> ", "output": " A small boy uses his shirt to hold a large bottle. "}
+{"input": " <expression> <mask_0> wears <mask_1> gear <mask_2> skating <mask_3> </expression> ", "output": " The girl wears safety gear when skating. "}
+{"input": " <expression> <mask_0> stand <mask_1> hold <mask_2> car <mask_3> </expression> ", "output": " The girl wonders if the display stand will hold the toy car. "}
+{"input": " <expression> <mask_0> kid <mask_1> pushes <mask_2> swing <mask_3> </expression> ", "output": " A kid pushes another kid on the swing. "}
+{"input": " <expression> <mask_0> costume <mask_1> street <mask_2> dance <mask_3> </expression> ", "output": " Lets wear a cute costume to the street dance. "}
+{"input": " <expression> <mask_0> sit <mask_1> front <mask_2> cake <mask_3> </expression> ", "output": " The Birthday girl was told to sit in front of her cake at the party. "}
+{"input": " <expression> <mask_0> car <mask_1> front <mask_2> building <mask_3> </expression> ", "output": " The boy parked the car in front of the building. "}
+{"input": " <expression> <mask_0> marched <mask_1> street <mask_2> instruments <mask_3> </expression> ", "output": " The band marched down the street with many instruments. "}
+{"input": " <expression> <mask_0> sit <mask_1> stand <mask_2> watch <mask_3> </expression> ", "output": " The people sit and stand to watch the game. "}
+{"input": " <expression> <mask_0> artist <mask_1> paint <mask_2> portrait <mask_3> </expression> ", "output": " The famous artist will paint a portrait at the fair. "}
+{"input": " <expression> <mask_0> pick <mask_1> ball <mask_2> run <mask_3> </expression> ", "output": " pick the ball and run the faster you can "}
+{"input": " <expression> <mask_0> jumps <mask_1> pool <mask_2> swimsuit <mask_3> </expression> ", "output": " A girl jumps into a pool without her swimsuit "}
+{"input": " <expression> <mask_0> sits <mask_1> eat <mask_2> donut <mask_3> </expression> ", "output": " The woman sits down to eat a donut. "}
+{"input": " <expression> <mask_0> jumped <mask_1> ski <mask_2> slope <mask_3> </expression> ", "output": " The skiing man jumped when he was going down a ski slope. "}
+{"input": " <expression> <mask_0> lean <mask_1> window <mask_2> look <mask_3> </expression> ", "output": " A man would lean outside the window to look at the scenery. "}
+{"input": " <expression> <mask_0> smiles <mask_1> smokes <mask_2> cigarette <mask_3> </expression> ", "output": " A man smiles as he smokes his cigarette. "}
+{"input": " <expression> <mask_0> skateboard <mask_1> trick <mask_2> park <mask_3> </expression> ", "output": " A girl does a skateboard trick at a park. "}
+{"input": " <expression> <mask_0> lot <mask_1> snow <mask_2> shovel <mask_3> </expression> ", "output": " The woman knew she had a lot of snow to shovel. "}
+{"input": " <expression> <mask_0> sit <mask_1> room <mask_2> reading <mask_3> </expression> ", "output": " I often sit down solitary in my room reading non-fiction. "}
+{"input": " <expression> <mask_0> top <mask_1> cliff <mask_2> jump <mask_3> </expression> ", "output": " Th sad man got to the top of the cliff to jump off. "}
+{"input": " <expression> <mask_0> couple <mask_1> wait <mask_2> line <mask_3> </expression> ", "output": " The couple will wait in line. "}
+{"input": " <expression> <mask_0> wear <mask_1> dress <mask_2> shoes <mask_3> </expression> ", "output": " A girl plans to wear a dress and nice shoes to the dance. "}
+{"input": " <expression> <mask_0> swims <mask_1> holds <mask_2> hand <mask_3> </expression> ", "output": " When the little girl swims, her mother holds on to her hand. "}
+{"input": " <expression> <mask_0> stands <mask_1> talks <mask_2> tree <mask_3> </expression> ", "output": " The couple stands and talks under the tree. "}
+{"input": " <expression> <mask_0> Carry <mask_1> water <mask_2> board <mask_3> </expression> ", "output": " Carry the glass of water and place it on the board. "}
+{"input": " <expression> <mask_0> stand <mask_1> tree <mask_2> branch <mask_3> </expression> ", "output": " I stand under a tree and grabbed for the branch. "}
+{"input": " <expression> <mask_0> fish <mask_1> hole <mask_2> catch <mask_3> </expression> ", "output": " When you ice fish, first you dig a hole in order to catch any fish. "}
+{"input": " <expression> <mask_0> jumped <mask_1> edge <mask_2> pool <mask_3> </expression> ", "output": " The girl jumped off the edge, into the pool. "}
+{"input": " <expression> <mask_0> bowling <mask_1> ball <mask_2> alley <mask_3> </expression> ", "output": " The man is bowling the bowling ball down the bowling alley. "}
+{"input": " <expression> <mask_0> rides <mask_1> unicycle <mask_2> sidewalk <mask_3> </expression> ", "output": " The boy rides the unicycle down the sidewalk. "}
+{"input": " <expression> <mask_0> throw <mask_1> rock <mask_2> pond <mask_3> </expression> ", "output": " The boy was taught how to throw a rock into a pond, and . "}
+{"input": " <expression> <mask_0> car <mask_1> parked <mask_2> snow <mask_3> </expression> ", "output": " The car parked outside is covered by snow. "}
+{"input": " <expression> <mask_0> ball <mask_1> bounce <mask_2> head <mask_3> </expression> ", "output": " the ball bounce of his head "}
+{"input": " <expression> <mask_0> take <mask_1> sip <mask_2> bottle <mask_3> </expression> ", "output": " The would women take a sip of wine from a bottle and get dizzy. "}
+{"input": " <expression> <mask_0> riding <mask_1> bike <mask_2> slope <mask_3> </expression> ", "output": " He has been riding his bike on slope for the  last 15 minutes. "}
+{"input": " <expression> <mask_0> hit <mask_1> fall <mask_2> ground <mask_3> </expression> ", "output": " when he hit the ball from upstair  it fall on the ground . "}
+{"input": " <expression> <mask_0> ball <mask_1> scored <mask_2> goal <mask_3> </expression> ", "output": " The girl kicked the soccer ball into the net and scored a goal. "}
+{"input": " <expression> <mask_0> hand <mask_1> hold <mask_2> toy <mask_3> </expression> ", "output": " hand hold toy are great for kids "}
+{"input": " <expression> <mask_0> talks <mask_1> stage <mask_2> microphone <mask_3> </expression> ", "output": " A comedian talks about life on stage while holding the microphone. "}
+{"input": " <expression> <mask_0> dealer <mask_1> card <mask_2> table <mask_3> </expression> ", "output": " The dealer put the card down on the table. "}
+{"input": " <expression> <mask_0> walked <mask_1> dog <mask_2> leash <mask_3> </expression> ", "output": " the girl walked the dog on a leash. "}
+{"input": " <expression> <mask_0> running <mask_1> basketball <mask_2> game <mask_3> </expression> ", "output": " Men are running while playing a basketball game. "}
+{"input": " <expression> <mask_0> river <mask_1> catch <mask_2> fish <mask_3> </expression> ", "output": " The girl will go to the river and try to catch a fish. "}
+{"input": " <expression> <mask_0> stood <mask_1> walked <mask_2> rope <mask_3> </expression> ", "output": " The crowd stood up to cheer as the woman walked across the rope. "}
+{"input": " <expression> <mask_0> pitcher <mask_1> catches <mask_2> ball <mask_3> </expression> ", "output": " The pitcher catches the ball. "}
+{"input": " <expression> <mask_0> stands <mask_1> front <mask_2> pool <mask_3> </expression> ", "output": " The girl stands at the front of the pool. "}
+{"input": " <expression> <mask_0> puts <mask_1> glass <mask_2> takes <mask_3> </expression> ", "output": " A man puts the glass on the table, and  A woman takes it. "}
+{"input": " <expression> <mask_0> wore <mask_1> driving <mask_2> tractor <mask_3> </expression> ", "output": " The farmer wore a jacket while driving the tractor. "}
+{"input": " <expression> <mask_0> Toddlers <mask_1> throw <mask_2> balls <mask_3> </expression> ", "output": " Toddlers love to throw balls. "}
+{"input": " <expression> <mask_0> cheerleader <mask_1> performs <mask_2> field <mask_3> </expression> ", "output": " A cheerleader performs a routine in a field. "}
+{"input": " <expression> <mask_0> walking <mask_1> looked <mask_2> house <mask_3> </expression> ", "output": " While the men were walking, they looked at the house across the street. "}
+{"input": " <expression> <mask_0> worker <mask_1> cleaned <mask_2> floor <mask_3> </expression> ", "output": " The worker cleaned the floor. "}
+{"input": " <expression> <mask_0> threw <mask_1> air <mask_2> catch <mask_3> </expression> ", "output": " I picked up and apple and threw it in the air so he could catch it "}
+{"input": " <expression> <mask_0> hold <mask_1> stick <mask_2> shirt <mask_3> </expression> ", "output": " Im going to hold this hockey stick while wearing my favorite team's shirt. "}
+{"input": " <expression> <mask_0> ate <mask_1> burger <mask_2> table <mask_3> </expression> ", "output": " The man ate a burger at the table. "}
+{"input": " <expression> <mask_0> flute <mask_1> sitting <mask_2> chair <mask_3> </expression> ", "output": " A man is playing flute sitting on a chair "}
+{"input": " <expression> <mask_0> cheerleader <mask_1> performed <mask_2> crowds <mask_3> </expression> ", "output": " The cheerleader performed their routine in front of the stadium crowds. "}
+{"input": " <expression> <mask_0> toss <mask_1> ball <mask_2> air <mask_3> </expression> ", "output": " toss the ball to the air "}
+{"input": " <expression> <mask_0> stand <mask_1> surfboard <mask_2> water <mask_3> </expression> ", "output": " The man couldn't stand on the surfboard while the water was rough "}
+{"input": " <expression> <mask_0> book <mask_1> lap <mask_2> reads <mask_3> </expression> ", "output": " The book is on the girl's lap when she reads. "}
+{"input": " <expression> <mask_0> lady <mask_1> put <mask_2> eyes <mask_3> </expression> ", "output": " A lady put makeup on her eyes. "}
+{"input": " <expression> <mask_0> blows <mask_1> leaves <mask_2> lawn <mask_3> </expression> ", "output": " The man blows the leaves off of his lawn. "}
+{"input": " <expression> <mask_0> band <mask_1> stood <mask_2> front <mask_3> </expression> ", "output": " The band stood in front of the doors to the gym. "}
+{"input": " <expression> <mask_0> wear <mask_1> costume <mask_2> walk <mask_3> </expression> ", "output": " holloween the kid wear costume and walk the street pick up candy "}
+{"input": " <expression> <mask_0> kid <mask_1> ride <mask_2> motorcycle <mask_3> </expression> ", "output": " The kid wanted to ride on the motorcycle. "}
+{"input": " <expression> <mask_0> horse <mask_1> cow <mask_2> lasso <mask_3> </expression> ", "output": " A man was on a horse trying to catch a cow with the lasso "}
+{"input": " <expression> <mask_0> stands <mask_1> grass <mask_2> sits <mask_3> </expression> ", "output": " A man stands on the grass and then sits down. "}
+{"input": " <expression> <mask_0> hand <mask_1> wash <mask_2> faucet <mask_3> </expression> ", "output": " hand wash on the faucet is ideal "}
+{"input": " <expression> <mask_0> ride <mask_1> road <mask_2> area <mask_3> </expression> ", "output": " ride the road to find the best area "}
+{"input": " <expression> <mask_0> kid <mask_1> swing <mask_2> playground <mask_3> </expression> ", "output": " The kid swang on the swing in the playground. "}
+{"input": " <expression> <mask_0> sprayed <mask_1> car <mask_2> water <mask_3> </expression> ", "output": " He sprayed his car with water. "}
+{"input": " <expression> <mask_0> sewing <mask_1> machine <mask_2> garment <mask_3> </expression> ", "output": " She uses the sewing machine to mend the garment. "}
+{"input": " <expression> <mask_0> came <mask_1> hit <mask_2> ball <mask_3> </expression> ", "output": " The boy came forward to hit the ball. "}
+{"input": " <expression> <mask_0> sitting <mask_1> talking <mask_2> smiles <mask_3> </expression> ", "output": " While sitting and talking at dinner, she smiles at his joke. "}
+{"input": " <expression> <mask_0> rode <mask_1> top <mask_2> horse <mask_3> </expression> ", "output": " The girl rode on top of the horse. "}
+{"input": " <expression> <mask_0> family <mask_1> opens <mask_2> presents <mask_3> </expression> ", "output": " The family opens presents on Christmas! "}
+{"input": " <expression> <mask_0> bar <mask_1> sing <mask_2> songs <mask_3> </expression> ", "output": " In the bar some girls sing different songs. "}
+{"input": " <expression> <mask_0> stands <mask_1> street <mask_2> holding <mask_3> umbrella <mask_4> </expression> ", "output": " She stands in the street holding an umbrella. "}
+{"input": " <expression> <mask_0> brick <mask_1> mortar <mask_2> build <mask_3> walls <mask_4> </expression> ", "output": " People use brick and mortar to build the walls for their house. "}
+{"input": " <expression> <mask_0> put <mask_1> thread <mask_2> sewing <mask_3> machine <mask_4> </expression> ", "output": " I put the thread on the sewing machine. "}
+{"input": " <expression> <mask_0> pours <mask_1> glass <mask_2> beer <mask_3> bar <mask_4> </expression> ", "output": " The girl pours herself a glass of beer while sitting at the bar. "}
+{"input": " <expression> <mask_0> surfer <mask_1> fell <mask_2> board <mask_3> wave <mask_4> </expression> ", "output": " The surfer fell off his board when the wave hit. "}
+{"input": " <expression> <mask_0> held <mask_1> hand <mask_2> front <mask_3> stands <mask_4> </expression> ", "output": " The child held the woman's hand. A group of teenagers hit the front of the car. The woman held the child's hand. A chair stands on four legs. "}
+{"input": " <expression> <mask_0> face <mask_1> dry <mask_2> towel <mask_3> wash <mask_4> </expression> ", "output": " The face of the rock was so dry he decided to wet a towel and wash it. "}
+{"input": " <expression> <mask_0> rides <mask_1> bicycle <mask_2> street <mask_3> walking <mask_4> </expression> ", "output": " The woman rides a bicycle down the street instead of walking. "}
+{"input": " <expression> <mask_0> bathtub <mask_1> giving <mask_2> dog <mask_3> bath <mask_4> </expression> ", "output": " The teenager made a big mess in the bathtub giving her dog a bath. "}
+{"input": " <expression> <mask_0> baseball <mask_1> player <mask_2> hit <mask_3> bat <mask_4> </expression> ", "output": " The baseball player got a hit for a single when he was last at bat. "}
+{"input": " <expression> <mask_0> worker <mask_1> pour <mask_2> smooth <mask_3> concrete <mask_4> </expression> ", "output": " The worker will pour and smooth concrete to make a sidewalk. "}
+{"input": " <expression> <mask_0> perform <mask_1> routine <mask_2> jumping <mask_3> rope <mask_4> </expression> ", "output": " A girl will perform her routine of jumping rope. "}
+{"input": " <expression> <mask_0> run <mask_1> court <mask_2> throw <mask_3> ball <mask_4> </expression> ", "output": " The boy must run from one end of the court to the other to throw the ball into the hoop. "}
+{"input": " <expression> <mask_0> front <mask_1> stage <mask_2> crowd <mask_3> dance <mask_4> </expression> ", "output": " A front stage crowd dance. "}
+{"input": " <expression> <mask_0> suspended <mask_1> building <mask_2> clean <mask_3> windows <mask_4> </expression> ", "output": " The man hangs suspended outside the building to clean the windows. "}
+{"input": " <expression> <mask_0> stands <mask_1> sink <mask_2> washing <mask_3> dishes <mask_4> </expression> ", "output": " A mother stands at the sink washing the dinner dishes. "}
+{"input": " <expression> <mask_0> hit <mask_1> ball <mask_2> stick <mask_3> field <mask_4> </expression> ", "output": " The man hit the ball with the stick out of the field. "}
+{"input": " <expression> <mask_0> drinks <mask_1> beer <mask_2> sits <mask_3> bar <mask_4> </expression> ", "output": " The man drinks beer while he sits at the bar. "}
+{"input": " <expression> <mask_0> player <mask_1> scored <mask_2> goal <mask_3> team <mask_4> </expression> ", "output": " The player scored a goal for his team. "}
+{"input": " <expression> <mask_0> throw <mask_1> knife <mask_2> wood <mask_3> pieces <mask_4> </expression> ", "output": " I stood to throw the knife at the wood target and cut the apple into pieces "}
+{"input": " <expression> <mask_0> owner <mask_1> dog <mask_2> come <mask_3> wait <mask_4> </expression> ", "output": " The owner told the dog to come, and then wait. "}
+{"input": " <expression> <mask_0> field <mask_1> kicked <mask_2> football <mask_3> goal <mask_4> </expression> ", "output": " The player on the field kicked the football in to the goal "}
+{"input": " <expression> <mask_0> hair <mask_1> standing <mask_2> front <mask_3> mirror <mask_4> </expression> ", "output": " The woman looked at her hair while standing in front of a mirror. "}
+{"input": " <expression> <mask_0> lifted <mask_1> weights <mask_2> listened <mask_3> music <mask_4> </expression> ", "output": " While the man lifted weights, he listened to music on his iPod. "}
+{"input": " <expression> <mask_0> shuffles <mask_1> deck <mask_2> cards <mask_3> hands <mask_4> </expression> ", "output": " A man shuffles a deck of cards in his hands. "}
+{"input": " <expression> <mask_0> stand <mask_1> middle <mask_2> direct <mask_3> traffic <mask_4> </expression> ", "output": " The officer will stand in the middle of the road to direct traffic. "}
+{"input": " <expression> <mask_0> hold <mask_1> piece <mask_2> paper <mask_3> hand <mask_4> </expression> ", "output": " I need you to hold a piece of paper in your hand for me. "}
+{"input": " <expression> <mask_0> sits <mask_1> bench <mask_2> eat <mask_3> cream <mask_4> </expression> ", "output": " The man sits on the bench to eat his delicious peaches and cream dessert. "}
+{"input": " <expression> <mask_0> rope <mask_1> climb <mask_2> side <mask_3> mountain <mask_4> </expression> ", "output": " The girl uses a rope to climb the side of the mountain. "}
+{"input": " <expression> <mask_0> ball <mask_1> rolled <mask_2> lane <mask_3> pins <mask_4> </expression> ", "output": " The bowling ball rolled straight down the center of the lane and knocked down all of the pins. "}
+{"input": " <expression> <mask_0> put <mask_1> contact <mask_2> lens <mask_3> eye <mask_4> </expression> ", "output": " The girl put her contact lens in her eye. "}
+{"input": " <expression> <mask_0> stands <mask_1> ladder <mask_2> paint <mask_3> wall <mask_4> </expression> ", "output": " The man stands on the ladder to paint the wall. "}
+{"input": " <expression> <mask_0> used <mask_1> curling <mask_2> iron <mask_3> hair <mask_4> </expression> ", "output": " The actress used a curling iron to curl her hair. "}
+{"input": " <expression> <mask_0> drills <mask_1> apple <mask_2> peeler <mask_3> peel <mask_4> </expression> ", "output": " A man drills an apple on the peeler to peel it. "}
+{"input": " <expression> <mask_0> walked <mask_1> dog <mask_2> water <mask_3> body <mask_4> </expression> ", "output": " The woman walked her dog to water to keep it's body hydrated. "}
+{"input": " <expression> <mask_0> chisel <mask_1> carve <mask_2> wood <mask_3> hammer <mask_4> </expression> ", "output": " you have to use the chisel to carve the wood and not the hammer "}
+{"input": " <expression> <mask_0> team <mask_1> field <mask_2> player <mask_3> walk <mask_4> </expression> ", "output": " The entire team ran out onto the field except one player, he decided to walk. "}
+{"input": " <expression> <mask_0> cowboy <mask_1> rides <mask_2> horse <mask_3> rodeo <mask_4> </expression> ", "output": " The cowboy rides the horse in the rodeo. "}
+{"input": " <expression> <mask_0> laughed <mask_1> ripping <mask_2> piece <mask_3> paper <mask_4> </expression> ", "output": " The teenagers laughed at the sound of ripping a piece of paper. "}
+{"input": " <expression> <mask_0> Sit <mask_1> table <mask_2> read <mask_3> newspaper <mask_4> </expression> ", "output": " Sit on the table and read the newspaper. "}
+{"input": " <expression> <mask_0> score <mask_1> field <mask_2> goal <mask_3> run <mask_4> </expression> ", "output": " The Dallas Cowboys always score a field goal when the quarterback's run with the balls. "}
+{"input": " <expression> <mask_0> wearing <mask_1> shirt <mask_2> took <mask_3> picture <mask_4> </expression> ", "output": " The man wearing the shirt took the picture. "}
+{"input": " <expression> <mask_0> parked <mask_1> car <mask_2> side <mask_3> street <mask_4> </expression> ", "output": " The woman parked her car on the side of the street. "}
+{"input": " <expression> <mask_0> juggles <mask_1> ball <mask_2> stands <mask_3> room <mask_4> </expression> ", "output": " The clown juggles the ball while stands in the room. "}
+{"input": " <expression> <mask_0> stand <mask_1> shirt <mask_2> short <mask_3> wear <mask_4> </expression> ", "output": " when you stand up, that shirt looks too short to wear outside "}
+{"input": " <expression> <mask_0> sit <mask_1> front <mask_2> machine <mask_3> sew <mask_4> </expression> ", "output": " He would sit in front of the machine to sew a quilt. "}
+{"input": " <expression> <mask_0> crowd <mask_1> watch <mask_2> ride <mask_3> horse <mask_4> </expression> ", "output": " The crowd will watch the man ride a horse. "}
+{"input": " <expression> <mask_0> lady <mask_1> gym <mask_2> lifts <mask_3> weights <mask_4> </expression> ", "output": " The lady at the gym lifts five pound free weights. "}
+{"input": " <expression> <mask_0> athlete <mask_1> run <mask_2> track <mask_3> hurdle <mask_4> </expression> ", "output": " A athlete would run track in the hurdle. "}
+{"input": " <expression> <mask_0> demonstrates <mask_1> clean <mask_2> window <mask_3> squeegee <mask_4> </expression> ", "output": " The boy demonstrates how to clean the window with a squeegee. "}
+{"input": " <expression> <mask_0> sat <mask_1> eating <mask_2> piece <mask_3> watermelon <mask_4> </expression> ", "output": " A little boy sat on the porch eating a piece of watermelon. "}
+{"input": " <expression> <mask_0> sit <mask_1> table <mask_2> drink <mask_3> wine <mask_4> </expression> ", "output": " After a long day of work the women would sit at the table and drink a glass of wine. "}
+{"input": " <expression> <mask_0> ride <mask_1> horse <mask_2> area <mask_3> fence <mask_4> </expression> ", "output": " You ride the horse around the area near the fence. "}
+{"input": " <expression> <mask_0> Take <mask_1> piece <mask_2> paper <mask_3> fold <mask_4> </expression> ", "output": " Take a piece of paper and fold it. "}
+{"input": " <expression> <mask_0> sit <mask_1> couch <mask_2> blow <mask_3> balloons <mask_4> </expression> ", "output": " My son, James, wanted to sit on the couch and blow up the balloons. "}
+{"input": " <expression> <mask_0> hand <mask_1> toy <mask_2> sitting <mask_3> chair <mask_4> </expression> ", "output": " The woman's hand grabbed the toy as she was sitting down in the chair. "}
+{"input": " <expression> <mask_0> folds <mask_1> piece <mask_2> cardboard <mask_3> shirt <mask_4> </expression> ", "output": " The boy folds a piece of cardboard and places it inside his shirt. "}
+{"input": " <expression> <mask_0> front <mask_1> crowd <mask_2> perform <mask_3> trick <mask_4> </expression> ", "output": " The Magician got in front of the crowd to perform the trick. "}
+{"input": " <expression> <mask_0> dog <mask_1> stand <mask_2> look <mask_3> snow <mask_4> </expression> ", "output": " Her dog likes to stand and look in the snow. "}
+{"input": " <expression> <mask_0> wear <mask_1> hat <mask_2> ride <mask_3> horse <mask_4> </expression> ", "output": " I wear a hat when I ride a horse. "}
+{"input": " <expression> <mask_0> use <mask_1> toothbrush <mask_2> brush <mask_3> tooth <mask_4> </expression> ", "output": " A young boy would use his toothbrush to brush medicine on his tooth to help his tooth ache. "}
+{"input": " <expression> <mask_0> uses <mask_1> brush <mask_2> brush <mask_3> hair <mask_4> </expression> ", "output": " A woman uses a brush to brush her hair. "}
+{"input": " <expression> <mask_0> crowd <mask_1> watched <mask_2> performed <mask_3> dance <mask_4> </expression> ", "output": " The crowd watched a performed dance "}
+{"input": " <expression> <mask_0> dog <mask_1> sprayed <mask_2> water <mask_3> hose <mask_4> </expression> ", "output": " The dog got sprayed with the water hose. "}
+{"input": " <expression> <mask_0> sits <mask_1> floor <mask_2> fold <mask_3> clothes <mask_4> </expression> ", "output": " The girl sits on the floor to fold the clothes. "}
+{"input": " <expression> <mask_0> peeling <mask_1> machine <mask_2> used <mask_3> apple <mask_4> </expression> ", "output": " The peeling machine was used to peel an apple. "}
+{"input": " <expression> <mask_0> continued <mask_1> dance <mask_2> holding <mask_3> posing <mask_4> </expression> ", "output": " The woman continued to dance while she was holding her posing toddler. "}
+{"input": " <expression> <mask_0> swim <mask_1> cheer <mask_2> pool <mask_3> lane <mask_4> </expression> ", "output": " The swim team will cheer for the person in the pool lane. "}
+{"input": " <expression> <mask_0> kid <mask_1> jumps <mask_2> pool <mask_3> board <mask_4> </expression> ", "output": " The kid jumps off the pool from the jumping board. "}
+{"input": " <expression> <mask_0> sit <mask_1> table <mask_2> put <mask_3> puzzle <mask_4> </expression> ", "output": " The young girl would sit at the table for hours to put the puzzle together. "}
+{"input": " <expression> <mask_0> hand <mask_1> ball <mask_2> bouncing <mask_3> court <mask_4> </expression> ", "output": " A boy uses his hand to stop a ball from bouncing off the tennis court. "}
+{"input": " <expression> <mask_0> Watch <mask_1> jumping <mask_2> cliff <mask_3> water <mask_4> </expression> ", "output": " Watch him jumping from the cliff to the water "}
+{"input": " <expression> <mask_0> car <mask_1> gas <mask_2> station <mask_3> pump <mask_4> </expression> ", "output": " The man drove he's car up to the gas station to pump in some gas. "}
+{"input": " <expression> <mask_0> feed <mask_1> food <mask_2> spoon <mask_3> eat <mask_4> </expression> ", "output": " The Mum needed to feed the baby it's food using a spoon before she could eat herself. "}
+{"input": " <expression> <mask_0> ride <mask_1> camel <mask_2> walks <mask_3> desert <mask_4> </expression> ", "output": " The rider ride the camel walks across the desert. "}
+{"input": " <expression> <mask_0> holds <mask_1> umbrella <mask_2> walking <mask_3> rain <mask_4> </expression> ", "output": " The man holds the umbrella for the woman while walking in the rain. "}
+{"input": " <expression> <mask_0> couple <mask_1> floor <mask_2> dance <mask_3> music <mask_4> </expression> ", "output": " A couple walked onto the floor to dance to the music. "}
+{"input": " <expression> <mask_0> sits <mask_1> bench <mask_2> water <mask_3> body <mask_4> </expression> ", "output": " A man sits on a bench and pours water over his body. "}
+{"input": " <expression> <mask_0> holding <mask_1> broom <mask_2> swept <mask_3> floor <mask_4> </expression> ", "output": " One child was holding the broom with a firm grip as he swept the floor. "}
+{"input": " <expression> <mask_0> piece <mask_1> wood <mask_2> breaks <mask_3> hold <mask_4> </expression> ", "output": " A piece of wood breaks off from its hold on the wall. "}
+{"input": " <expression> <mask_0> catches <mask_1> fish <mask_2> river <mask_3> net <mask_4> </expression> ", "output": " A boy catches a fish from the river by using his net. "}
+{"input": " <expression> <mask_0> sit <mask_1> bench <mask_2> talk <mask_3> phones <mask_4> </expression> ", "output": " Let's sit down on the bench and talk about our phones. "}
+{"input": " <expression> <mask_0> mower <mask_1> ride <mask_2> track <mask_3> race <mask_4> </expression> ", "output": " The boy took the mower for a ride on the track to race his friends. "}
+{"input": " <expression> <mask_0> dog <mask_1> stood <mask_2> field <mask_3> holding <mask_4> </expression> ", "output": " The dog stood near the man in the field who was holding the leash. "}
+{"input": " <expression> <mask_0> stands <mask_1> court <mask_2> holding <mask_3> racket <mask_4> </expression> ", "output": " a woman stands on the court holding a racket "}
+{"input": " <expression> <mask_0> wax <mask_1> remove <mask_2> hair <mask_3> leg <mask_4> </expression> ", "output": " The woman visited a spa, where she had a wax treatment to remove the hair from her leg. "}
+{"input": " <expression> <mask_0> stood <mask_1> smashed <mask_2> grapes <mask_3> feet <mask_4> </expression> ", "output": " Lucy stood in the bucket and smashed the grapes with her feet. "}
+{"input": " <expression> <mask_0> Throw <mask_1> ball <mask_2> lane <mask_3> alley <mask_4> </expression> ", "output": " Throw the ball past the lane into the alley. "}
+{"input": " <expression> <mask_0> slides <mask_1> slides <mask_2> pool <mask_3> water <mask_4> </expression> ", "output": " The kid slides through the slide to reach the pool's water. "}
+{"input": " <expression> <mask_0> wear <mask_1> jacket <mask_2> walk <mask_3> snow <mask_4> </expression> ", "output": " The girl will wear her jacket to walk through the snow. "}
+{"input": " <expression> <mask_0> dog <mask_1> ran <mask_2> grass <mask_3> wear <mask_4> </expression> ", "output": " The dog that ran across the grass did not wear a lead. "}
+{"input": " <expression> <mask_0> couple <mask_1> ride <mask_2> skateboards <mask_3> road <mask_4> </expression> ", "output": " The couple will ride their skateboards down the road. "}
+{"input": " <expression> <mask_0> dig <mask_1> hole <mask_2> sand <mask_3> beach <mask_4> </expression> ", "output": " The boy will dig a hole in the sand at the beach. "}
+{"input": " <expression> <mask_0> demonstrates <mask_1> apply <mask_2> mascara <mask_3> eyelashes <mask_4> </expression> ", "output": " The woman demonstrates how to apply mascara on the eyelashes. "}
+{"input": " <expression> <mask_0> lady <mask_1> dryer <mask_2> dry <mask_3> hair <mask_4> </expression> ", "output": " The lady used a dryer to dry her hair. "}
+{"input": " <expression> <mask_0> dog <mask_1> jumps <mask_2> air <mask_3> field <mask_4> </expression> ", "output": " The dog jumps up in the air in a field. "}
+{"input": " <expression> <mask_0> lied <mask_1> table <mask_2> leg <mask_3> massaged <mask_4> </expression> ", "output": " The girl lied in the table to have her leg massaged. "}
+{"input": " <expression> <mask_0> hold <mask_1> hand <mask_2> cross <mask_3> street <mask_4> </expression> ", "output": " The girl will hold the boy's hand when they cross the street. "}
+{"input": " <expression> <mask_0> machine <mask_1> fills <mask_2> bottle <mask_3> liquid <mask_4> </expression> ", "output": " The machine fills the bottle with liquid. "}
+{"input": " <expression> <mask_0> dog <mask_1> watch <mask_2> fly <mask_3> kite <mask_4> </expression> ", "output": " You are a dog you should watch me fly a kite whore. "}
+{"input": " <expression> <mask_0> team <mask_1> celebrates <mask_2> winning <mask_3> game <mask_4> </expression> ", "output": " The team celebrates after winning the game. "}
+{"input": " <expression> <mask_0> helmet <mask_1> riding <mask_2> motorcycle <mask_3> road <mask_4> </expression> ", "output": " John wore his helmet when riding his motorcycle on the road. "}
+{"input": " <expression> <mask_0> wears <mask_1> gear <mask_2> swim <mask_3> water <mask_4> </expression> ", "output": " The scuba diver wears scuba gear to swim in the water. "}
+{"input": " <expression> <mask_0> wear <mask_1> outfit <mask_2> perform <mask_3> stage <mask_4> </expression> ", "output": " The girl will wear this outfit to perform on stage. "}
+{"input": " <expression> <mask_0> massage <mask_1> toes <mask_2> hand <mask_3> foot <mask_4> </expression> ", "output": " The massage parlour only focused on toes and would not touch your hand or even the rest of your foot. "}
+{"input": " <expression> <mask_0> dog <mask_1> hold <mask_2> leash <mask_3> mouth <mask_4> </expression> ", "output": " The dog can hold the leash in his mouth. "}
+{"input": " <expression> <mask_0> Push <mask_1> car <mask_2> street <mask_3> night <mask_4> </expression> ", "output": " Push the car on the street at night. "}
+{"input": " <expression> <mask_0> bird <mask_1> eat <mask_2> food <mask_3> hand <mask_4> </expression> ", "output": " The bird will eat food from the girl's hand. "}
+{"input": " <expression> <mask_0> watched <mask_1> player <mask_2> game <mask_3> team <mask_4> </expression> ", "output": " The man watched the player in the game as the team won. "}
+{"input": " <expression> <mask_0> watch <mask_1> run <mask_2> track <mask_3> pit <mask_4> </expression> ", "output": " Iam going to watch my son, run his car around the track and to stop at the pit "}
+{"input": " <expression> <mask_0> pick <mask_1> apples <mask_2> tree <mask_3> bag <mask_4> </expression> ", "output": " I pick the apples from the tree and put them in the bag. "}
+{"input": " <expression> <mask_0> blower <mask_1> blow <mask_2> leaves <mask_3> pile <mask_4> </expression> ", "output": " Dad uses the powerful blower to blow all of the extra leaves into a big pile. "}
+{"input": " <expression> <mask_0> clapped <mask_1> hands <mask_2> sit <mask_3> floor <mask_4> </expression> ", "output": " The teacher clapped her hands to get the children's attention to sit on the floor. "}
+{"input": " <expression> <mask_0> suck <mask_1> egg <mask_2> yolk <mask_3> bottle <mask_4> </expression> ", "output": " I suck the egg yolk out of the bottle. "}
+{"input": " <expression> <mask_0> baseball <mask_1> hits <mask_2> runs <mask_3> base <mask_4> </expression> ", "output": " A baseball player hits the ball and runs to the first base. "}
+{"input": " <expression> <mask_0> Take <mask_1> break <mask_2> sit <mask_3> bench <mask_4> </expression> ", "output": " Take a break and sit on the bench "}
+{"input": " <expression> <mask_0> pulled <mask_1> rope <mask_2> hold <mask_3> boat <mask_4> </expression> ", "output": " The man pulled the rope to hold the anchor of his boat out of the water. "}
+{"input": " <expression> <mask_0> drill <mask_1> hole <mask_2> piece <mask_3> wood <mask_4> </expression> ", "output": " The man used a drill to put a hole in the piece of wood. "}
+{"input": " <expression> <mask_0> wetsuit <mask_1> ride <mask_2> surfboard <mask_3> wave <mask_4> </expression> ", "output": " I needed to put on my wetsuit so I could ride the the surfboard on the ocean wave. "}
+{"input": " <expression> <mask_0> give <mask_1> instruction <mask_2> sharpen <mask_3> knife <mask_4> </expression> ", "output": " The first thing the cooking teacher did was give her students instruction on how to sharpen a knife. "}
+{"input": " <expression> <mask_0> took <mask_1> picture <mask_2> bride <mask_3> groom <mask_4> </expression> ", "output": " The photographer took a picture of the bride and groom. "}
+{"input": " <expression> <mask_0> chewing <mask_1> gum <mask_2> blows <mask_3> bubbles <mask_4> </expression> ", "output": " A child chewing gum blows bubbles. "}
+{"input": " <expression> <mask_0> rests <mask_1> head <mask_2> hand <mask_3> sits <mask_4> </expression> ", "output": " Jimmy rests his head on his hand when he sits at his desk. "}
+{"input": " <expression> <mask_0> shirt <mask_1> wear <mask_2> sit <mask_3> table <mask_4> </expression> ", "output": " The man put on a shirt to wear so that he could sit down at the restaurant table for dinner. "}
+{"input": " <expression> <mask_0> sitting <mask_1> wax <mask_2> chair <mask_3> leg <mask_4> </expression> ", "output": " While sitting on the floor, the girl will wax the chair leg. "}
+{"input": " <expression> <mask_0> iron <mask_1> iron <mask_2> board <mask_3> shirt <mask_4> </expression> ", "output": " A woman uses an iron and a board to iron a shirt. "}
+{"input": " <expression> <mask_0> pulls <mask_1> fish <mask_2> hole <mask_3> ice <mask_4> </expression> ", "output": " A man pulls the fish from the hole in the ice. "}
+{"input": " <expression> <mask_0> bowl <mask_1> table <mask_2> eating <mask_3> cereal <mask_4> </expression> ", "output": " Please put the bowl on the table when you are finished eating the cereal. "}
+{"input": " <expression> <mask_0> tells <mask_1> friends <mask_2> joke <mask_3> laugh <mask_4> </expression> ", "output": " The woman tells her friends a joke and they all laugh loudly. "}
+{"input": " <expression> <mask_0> ceremony <mask_1> priest <mask_2> washed <mask_3> foot <mask_4> </expression> ", "output": " At the ceremony, the priest washed one foot in water. "}
+{"input": " <expression> <mask_0> performed <mask_1> trick <mask_2> riding <mask_3> skateboard <mask_4> </expression> ", "output": " The teenager performed a trick while riding on his skateboard. "}
+{"input": " <expression> <mask_0> use <mask_1> brush <mask_2> clean <mask_3> toilet <mask_4> </expression> ", "output": " People use a scrub brush to clean the toilet. "}
+{"input": " <expression> <mask_0> goalie <mask_1> blocked <mask_2> shot <mask_3> team <mask_4> </expression> ", "output": " The goalie blocked the shot that would have won the team the game. "}
+{"input": " <expression> <mask_0> ice <mask_1> cutting <mask_2> block <mask_3> chainsaw <mask_4> </expression> ", "output": " The ice sculpture artist started cutting his ice block with the chainsaw. "}
+{"input": " <expression> <mask_0> dog <mask_1> ran <mask_2> chased <mask_3> track <mask_4> </expression> ", "output": " The dog ran fast as it chased the rabbit around the track. "}
+{"input": " <expression> <mask_0> singe <mask_1> shirt <mask_2> wear <mask_3> microphone <mask_4> </expression> ", "output": " the man singe his shirt while speaking into the wear microphone "}
+{"input": " <expression> <mask_0> kid <mask_1> knife <mask_2> pumpkin <mask_3> throw <mask_4> </expression> ", "output": " A kid can use a knife to carve a pumpkin and then throw pumpkin in the trash after Halloween. "}
+{"input": " <expression> <mask_0> kid <mask_1> rode <mask_2> bike <mask_3> street <mask_4> </expression> ", "output": " The kid rode the bike down the street. "}
+{"input": " <expression> <mask_0> Tourists <mask_1> take <mask_2> pictures <mask_3> building <mask_4> </expression> ", "output": " Tourists take a lot of pictures of the beautiful building. "}
+{"input": " <expression> <mask_0> sits <mask_1> floor <mask_2> piece <mask_3> paper <mask_4> </expression> ", "output": " A woman sits on the floor and examines a piece of paper. "}
+{"input": " <expression> <mask_0> lifted <mask_1> barbell <mask_2> head <mask_3> ground <mask_4> </expression> ", "output": " I lifted the barbell, through it at his head, and he fell to the ground. "}
+{"input": " <expression> <mask_0> bow <mask_1> shooting <mask_2> arrow <mask_3> target <mask_4> </expression> ", "output": " The archer pulled on the bow shooting the arrow  against the target butt. "}
+{"input": " <expression> <mask_0> tool <mask_1> carve <mask_2> piece <mask_3> wood <mask_4> </expression> ", "output": " The man uses his tool to carve a piece of wood. "}
+{"input": " <expression> <mask_0> throws <mask_1> ball <mask_2> knock <mask_3> pins <mask_4> </expression> ", "output": " A man throws the ball down the lane to knock all the pins down. "}
+{"input": " <expression> <mask_0> lays <mask_1> leg <mask_2> table <mask_3> waxed <mask_4> </expression> ", "output": " The girl lays her leg on the table to have it waxed. "}
+{"input": " <expression> <mask_0> blowing <mask_1> balloons <mask_2> wear <mask_3> hat <mask_4> </expression> ", "output": " The man blowing up balloons, likes to wear a large hat. "}
+{"input": " <expression> <mask_0> performed <mask_1> dance <mask_2> routine <mask_3> front <mask_4> </expression> ", "output": " The girl performed her dance routine in front of the audience. "}
+{"input": " <expression> <mask_0> dog <mask_1> pulls <mask_2> sled <mask_3> snow <mask_4> </expression> ", "output": " The dog pulls the sled through the snow "}
+{"input": " <expression> <mask_0> ran <mask_1> flew <mask_2> kite <mask_3> field <mask_4> </expression> ", "output": " The children ran as they flew the kite in the field. "}
+{"input": " <expression> <mask_0> sitting <mask_1> couch <mask_2> watching <mask_3> television <mask_4> </expression> ", "output": " A boy spent the evening sitting on the couch and watching a documentary on television. "}
+{"input": " <expression> <mask_0> dart <mask_1> board <mask_2> wall <mask_3> throw <mask_4> </expression> ", "output": " This arcade has a dart board hanging on the wall that you can throw darts at. "}
+{"input": " <expression> <mask_0> piece <mask_1> paper <mask_2> pencil <mask_3> write <mask_4> </expression> ", "output": " Give that girl a piece of paper and a pencil and she will write you a love letter; that's the kind of girl she is. "}
+{"input": " <expression> <mask_0> player <mask_1> kicked <mask_2> ball <mask_3> goal <mask_4> </expression> ", "output": " When the worst player kicked the ball into the goal the crowd went insane. "}
+{"input": " <expression> <mask_0> use <mask_1> razor <mask_2> trim <mask_3> beard <mask_4> </expression> ", "output": " I use a razor to trim the beard. "}
+{"input": " <expression> <mask_0> throw <mask_1> ball <mask_2> hold <mask_3> bat <mask_4> </expression> ", "output": " The coach taught the kids how to throw the ball and hold the bat. "}
+{"input": " <expression> <mask_0> give <mask_1> instructions <mask_2> tie <mask_3> tie <mask_4> </expression> ", "output": " He likes to give instructions to he's son to tie he's tie. "}
+{"input": " <expression> <mask_0> lays <mask_1> sink <mask_2> wash <mask_3> hair <mask_4> </expression> ", "output": " When the woman lays her head down on the sink the stylist can wash her hair. "}
+{"input": " <expression> <mask_0> wear <mask_1> hat <mask_2> sitting <mask_3> bench <mask_4> </expression> ", "output": " The man doesn't wear his hat while sitting on the bench in the park. "}
+{"input": " <expression> <mask_0> ball <mask_1> hand <mask_2> roll <mask_3> arm <mask_4> </expression> ", "output": " Once he caught the ball in his hand he took a hard roll onto the pavement and broke his arm. "}
+{"input": " <expression> <mask_0> danced <mask_1> room <mask_2> listening <mask_3> music <mask_4> </expression> ", "output": " A boy danced around the room while listening to music. "}
+{"input": " <expression> <mask_0> sat <mask_1> bench <mask_2> front <mask_3> building <mask_4> </expression> ", "output": " The older man sat on the bench in front of the building. "}
+{"input": " <expression> <mask_0> cuts <mask_1> top <mask_2> pumpkin <mask_3> knife <mask_4> </expression> ", "output": " He cuts the top of the pumpkin with a knife. "}
+{"input": " <expression> <mask_0> stops <mask_1> car <mask_2> cross <mask_3> street <mask_4> </expression> ", "output": " He stops his car at the cross walk to let the man cross the street. "}
+{"input": " <expression> <mask_0> dog <mask_1> sits <mask_2> bench <mask_3> park <mask_4> </expression> ", "output": " The dog sits on a bench in the park. "}
+{"input": " <expression> <mask_0> wear <mask_1> uniform <mask_2> run <mask_3> field <mask_4> </expression> ", "output": " The young girl chose to wear her most revealing uniform to run through the field at night to meet her lover. "}
+{"input": " <expression> <mask_0> game <mask_1> chess <mask_2> moves <mask_3> piece <mask_4> </expression> ", "output": " A girl plays a game of chess and moves her favorite piece, the queen, in many ways across the board. "}
+{"input": " <expression> <mask_0> dog <mask_1> stand <mask_2> leg <mask_3> ball <mask_4> </expression> ", "output": " The dog is going to stand by my leg with the ball. "}
+{"input": " <expression> <mask_0> ride <mask_1> horses <mask_2> dog <mask_3> follow <mask_4> </expression> ", "output": " I ride horses and watch the dog follow squirrels. "}
+{"input": " <expression> <mask_0> snow <mask_1> kid <mask_2> throw <mask_3> snowball <mask_4> </expression> ", "output": " While playing in the snow, the kid will throw a snowball. "}
+{"input": " <expression> <mask_0> way <mask_1> fold <mask_2> shirts <mask_3> demonstrated <mask_4> </expression> ", "output": " The way I fold shirts was demonstrated to me by my mother. "}
+{"input": " <expression> <mask_0> pet <mask_1> cat <mask_2> laid <mask_3> bed <mask_4> </expression> ", "output": " A woman's pet cat laid down on the bed. "}
+{"input": " <expression> <mask_0> horse <mask_1> rider <mask_2> jump <mask_3> fence <mask_4> </expression> ", "output": " The woman was a good horse rider and she knew if she could get her stalion to jump the fence she would have a winner for the weekend meet. "}
+{"input": " <expression> <mask_0> used <mask_1> tool <mask_2> pick <mask_3> lock <mask_4> </expression> ", "output": " The man used a tool to pick the lock. "}
+{"input": " <expression> <mask_0> rock <mask_1> stands <mask_2> water <mask_3> body <mask_4> </expression> ", "output": " A rock stands in the water beside the body of a girl. "}
+{"input": " <expression> <mask_0> family <mask_1> enjoyed <mask_2> sitting <mask_3> table <mask_4> </expression> ", "output": " The family enjoyed spending time together sitting around the table at meal times. "}
+{"input": " <expression> <mask_0> walks <mask_1> stage <mask_2> accept <mask_3> award <mask_4> </expression> ", "output": " A boy walks on the stage to accept his award. "}
+{"input": " <expression> <mask_0> sit <mask_1> chair <mask_2> washed <mask_3> foot <mask_4> </expression> ", "output": " as I sit in the chair, I washed the dirt off my left foot "}
+{"input": " <expression> <mask_0> attaching <mask_1> rope <mask_2> tree <mask_3> climb <mask_4> </expression> ", "output": " The woman is attaching a rope to a tree in order to climb it. "}
+{"input": " <expression> <mask_0> standing <mask_1> cross <mask_2> street <mask_3> waiting <mask_4> </expression> ", "output": " A boy standing on cross street and waiting for taxi "}
+{"input": " <expression> <mask_0> duck <mask_1> flapped <mask_2> wings <mask_3> water <mask_4> </expression> ", "output": " The duck flapped its wings in order to land on the water. "}
+{"input": " <expression> <mask_0> crowd <mask_1> watch <mask_2> volleyball <mask_3> beach <mask_4> </expression> ", "output": " I like to be in the crowd to watch volleyball at the beach "}
+{"input": " <expression> <mask_0> dog <mask_1> owner <mask_2> takes <mask_3> walk <mask_4> </expression> ", "output": " The dog's owner takes him on a walk. "}
+{"input": " <expression> <mask_0> stood <mask_1> throw <mask_2> ball <mask_3> distance <mask_4> </expression> ", "output": " The boy stood on the line to  throw the ball to the basket in the distance. "}
+{"input": " <expression> <mask_0> wears <mask_1> helmet <mask_2> sits <mask_3> motorcycle <mask_4> </expression> ", "output": " she wears a helmet & sits on the motorcycle. "}
+{"input": " <expression> <mask_0> catch <mask_1> throw <mask_2> baseball <mask_3> mitt <mask_4> </expression> ", "output": " The players like to catch and throw the baseball with a mitt. "}
+{"input": " <expression> <mask_0> piece <mask_1> pottery <mask_2> worked <mask_3> wheel <mask_4> </expression> ", "output": " This piece of pottery was worked on the wheel at the studio. "}
+{"input": " <expression> <mask_0> demonstrate <mask_1> tie <mask_2> shoe <mask_3> lace <mask_4> </expression> ", "output": " I can demonstrate how to tie your shoe using the lace. "}
+{"input": " <expression> <mask_0> skip <mask_1> stone <mask_2> body <mask_3> water <mask_4> </expression> ", "output": " I like to skip a stone in the body of water. "}
+{"input": " <expression> <mask_0> sat <mask_1> chair <mask_2> shoes <mask_3> shined <mask_4> </expression> ", "output": " He sat in the chair and got his shoes shined. "}
+{"input": " <expression> <mask_0> performed <mask_1> dance <mask_2> stage <mask_3> costume <mask_4> </expression> ", "output": " The actor performed a dance on stage in his costume. "}
+{"input": " <expression> <mask_0> track <mask_1> watch <mask_2> jump <mask_3> hurdles <mask_4> </expression> ", "output": " we went  to the track to watch Alex jump the hurdles. "}
+{"input": " <expression> <mask_0> sit <mask_1> bench <mask_2> wait <mask_3> bus <mask_4> </expression> ", "output": " The girl will sit on the bench and wait for the bus. "}
+{"input": " <expression> <mask_0> dog <mask_1> carrying <mask_2> stick <mask_3> runs <mask_4> </expression> ", "output": " A dog carrying a stick runs to it's owner. "}
+{"input": " <expression> <mask_0> team <mask_1> chased <mask_2> ball <mask_3> field <mask_4> </expression> ", "output": " The team chased the ball across the field of play. "}
+{"input": " <expression> <mask_0> dog <mask_1> eats <mask_2> food <mask_3> bowl <mask_4> </expression> ", "output": " A dog eats food from a bowl. "}
+{"input": " <expression> <mask_0> looks <mask_1> cigarette <mask_2> takes <mask_3> puff <mask_4> </expression> ", "output": " The man looks at his cigarette and takes a puff. "}
+{"input": " <expression> <mask_0> sat <mask_1> floor <mask_2> tie <mask_3> shoes <mask_4> </expression> ", "output": " A man sat with his feet on the floor to tie his shoes. "}
+{"input": " <expression> <mask_0> ladder <mask_1> trim <mask_2> top <mask_3> hedges <mask_4> </expression> ", "output": " The teenager's landscaping job is to go up a ladder to trim the top of tall hedges. "}
+{"input": " <expression> <mask_0> stand <mask_1> hold <mask_2> shovel <mask_3> snow <mask_4> </expression> ", "output": " It was hard to stand outside in the could and hold a shovel in the snow. "}
+{"input": " <expression> <mask_0> looks <mask_1> mirror <mask_2> shaves <mask_3> face <mask_4> </expression> ", "output": " He looks in the mirror when he shaves his face. "}
+{"input": " <expression> <mask_0> uniform <mask_1> prepares <mask_2> kick <mask_3> ball <mask_4> </expression> ", "output": " The woman in uniform prepares to kick the ball. "}
+{"input": " <expression> <mask_0> body <mask_1> rides <mask_2> water <mask_3> skis <mask_4> </expression> ", "output": " A man with a small body rides water skis. "}
+{"input": " <expression> <mask_0> gathers <mask_1> street <mask_2> waves <mask_3> flag <mask_4> </expression> ", "output": " A crowd gathers on the street and waves the flag. "}
+{"input": " <expression> <mask_0> dog <mask_1> water <mask_2> wears <mask_3> collar <mask_4> </expression> ", "output": " The dog drinking water wears a collar. "}
+{"input": " <expression> <mask_0> game <mask_1> players <mask_2> run <mask_3> field <mask_4> </expression> ", "output": " In this game, players run across a field and kick a ball. "}
+{"input": " <expression> <mask_0> threw <mask_1> rock <mask_2> skip <mask_3> water <mask_4> </expression> ", "output": " The young girl threw the rock and watched it skip across the water. "}
+{"input": " <expression> <mask_0> axis <mask_1> target <mask_2> throwing <mask_3> wall <mask_4> </expression> ", "output": " The man adjusts the trebuchet, increasing its weight, along the Y axis so the rocks would smash into its target, throwing heavy stones at the wall, collapsing it. "}
+{"input": " <expression> <mask_0> painted <mask_1> graffiti <mask_2> side <mask_3> building <mask_4> </expression> ", "output": " The man painted graffiti on the side of the school building. "}
+{"input": " <expression> <mask_0> sat <mask_1> chair <mask_2> ears <mask_3> pierced <mask_4> </expression> ", "output": " The girl sat on the chair and had her ears pierced by the professional. "}
+{"input": " <expression> <mask_0> rides <mask_1> horse <mask_2> roping <mask_3> calf <mask_4> </expression> ", "output": " The cowboy rides a horse while while roping the calf. "}
+{"input": " <expression> <mask_0> doctor <mask_1> patient <mask_2> perform <mask_3> surgery <mask_4> </expression> ", "output": " The doctor told her patient that she would need to perform surgery on his back in order to stabilize his spine. "}
+{"input": " <expression> <mask_0> ball <mask_1> spin <mask_2> rope <mask_3> attached <mask_4> </expression> ", "output": " watch the ball spin as it bounces over that rope attached to the tree "}
+{"input": " <expression> <mask_0> hit <mask_1> ball <mask_2> turn <mask_3> take <mask_4> </expression> ", "output": " So there I am at the party, standing on the second floor looking at John, so I hit the ball against his face, then I turn around and pretend it isn't me and take a leap of faith that John won't suspect of me. "}
+{"input": " <expression> <mask_0> wearing <mask_1> shirt <mask_2> climbed <mask_3> wall <mask_4> </expression> ", "output": " The man wearing the red shirt climbed the wall. "}
+{"input": " <expression> <mask_0> wearing <mask_1> shirt <mask_2> reads <mask_3> book <mask_4> </expression> ", "output": " A boy wearing a blue shirt reads a book. "}
+{"input": " <expression> <mask_0> holds <mask_1> phone <mask_2> ear <mask_3> talking <mask_4> </expression> ", "output": " A girl holds the phone up to her ear to listen to her friend talking. "}
+{"input": " <expression> <mask_0> wore <mask_1> glove <mask_2> piercing <mask_3> ear <mask_4> </expression> ", "output": " The man wore a glove while piercing his ear. "}
+{"input": " <expression> <mask_0> sit <mask_1> chair <mask_2> pop <mask_3> balloon <mask_4> </expression> ", "output": " I sit in my chair and pop my balloon. "}
+{"input": " <expression> <mask_0> throw <mask_1> hit <mask_2> target <mask_3> axe <mask_4> </expression> ", "output": " He would throw his arm back and hit the target with the axe. "}
+{"input": " <expression> <mask_0> crowd <mask_1> cheer <mask_2> team <mask_3> goal <mask_4> </expression> ", "output": " The crowd will cheer when the team scores a goal. "}
+{"input": " <expression> <mask_0> dog <mask_1> ran <mask_2> field <mask_3> frisbee <mask_4> </expression> ", "output": " The dog ran across the field to catch the frisbee his owner threw him. "}
+{"input": " <expression> <mask_0> hair <mask_1> blow <mask_2> dry <mask_3> brush <mask_4> </expression> ", "output": " The hair dresser had a special today only $25 for a shampoo, blow-dry, and brush out. "}
+{"input": " <expression> <mask_0> eat <mask_1> chips <mask_2> sitting <mask_3> couch <mask_4> </expression> ", "output": " During football season boys eat chips while sitting on the couch. "}
+{"input": " <expression> <mask_0> shoes <mask_1> using <mask_2> brush <mask_3> scrub <mask_4> </expression> ", "output": " I took my shoes off before using a brush to scrub the dirty soles of them. "}
+{"input": " <expression> <mask_0> stand <mask_1> podium <mask_2> give <mask_3> speech <mask_4> </expression> ", "output": " The girl will stand at the podium to give the speech. "}
+{"input": " <expression> <mask_0> bride <mask_1> groom <mask_2> cut <mask_3> cake <mask_4> </expression> ", "output": " The bride and groom cut the cake today! "}
+{"input": " <expression> <mask_0> sit <mask_1> table <mask_2> carve <mask_3> pumpkin <mask_4> </expression> ", "output": " It's fun to sit at a table to carve a pumpkin. "}
+{"input": " <expression> <mask_0> card <mask_1> deals <mask_2> sitting <mask_3> table <mask_4> </expression> ", "output": " A card dealer deals cards while sitting at a table. "}
+{"input": " <expression> <mask_0> sit <mask_1> eat <mask_2> spaghetti <mask_3> hand <mask_4> </expression> ", "output": " The special boy would sit in his highchair and eat spaghetti with his left hand, never using a fork. "}
+{"input": " <expression> <mask_0> cart <mask_1> push <mask_2> street <mask_3> walk <mask_4> </expression> ", "output": " The older woman had a cart to push down the street during her walk for balance. "}
+{"input": " <expression> <mask_0> flashed <mask_1> light <mask_2> performing <mask_3> stage <mask_4> </expression> ", "output": " The girl flashed the light while performing on stage. "}
+{"input": " <expression> <mask_0> walked <mask_1> street <mask_2> holding <mask_3> flag <mask_4> </expression> ", "output": " The man walked down the street holding the flag high for all to see. "}
+{"input": " <expression> <mask_0> wrapped <mask_1> paper <mask_2> box <mask_3> table <mask_4> </expression> ", "output": " She wrapped a paper box  on the table. "}
+{"input": " <expression> <mask_0> saw <mask_1> cut <mask_2> piece <mask_3> lumber <mask_4> </expression> ", "output": " The saw will cut a piece of lumber. "}
+{"input": " <expression> <mask_0> worker <mask_1> cut <mask_2> branch <mask_3> tree <mask_4> </expression> ", "output": " A worker came out to the house to cut a branch off of the tree. "}
+{"input": " <expression> <mask_0> tap <mask_1> beat <mask_2> pen <mask_3> table <mask_4> </expression> ", "output": " The girl would both tap and beat her pen on the table. "}
+{"input": " <expression> <mask_0> pull <mask_1> water <mask_2> catch <mask_3> fish <mask_4> </expression> ", "output": " The group of guys had to pull the boat into the water to catch fish. "}
+{"input": " <expression> <mask_0> dog <mask_1> beach <mask_2> run <mask_3> water <mask_4> </expression> ", "output": " A dog went to a beach for a run after drinking some water. "}
+{"input": " <expression> <mask_0> team <mask_1> line <mask_2> shake <mask_3> hands <mask_4> </expression> ", "output": " The soccer team forms a line to shake hands at the end of the game. "}
+{"input": " <expression> <mask_0> player <mask_1> caught <mask_2> ball <mask_3> game <mask_4> </expression> ", "output": " The player caught the ball to win the game for his team. "}
+{"input": " <expression> <mask_0> marching <mask_1> band <mask_2> walked <mask_3> street <mask_4> </expression> ", "output": " The marching band walked down teh street. "}
+{"input": " <expression> <mask_0> gloves <mask_1> box <mask_2> hits <mask_3> bag <mask_4> </expression> ", "output": " The man makes sure to put his gloves on before he can box so that he doesn't get hurt while he hits the boxing bag. "}
+{"input": " <expression> <mask_0> rode <mask_1> bike <mask_2> front <mask_3> building <mask_4> </expression> ", "output": " The boy rode his bike past the front of that office building. "}
+{"input": " <expression> <mask_0> gave <mask_1> instructions <mask_2> fold <mask_3> paper <mask_4> </expression> ", "output": " The gave the student instructions on how to fold the paper. "}
+{"input": " <expression> <mask_0> wearing <mask_1> shirt <mask_2> kicked <mask_3> ball <mask_4> </expression> ", "output": " the boy wearing the green shirt kicked the ball. "}
+{"input": " <expression> <mask_0> holds <mask_1> hand <mask_2> jumps <mask_3> pool <mask_4> </expression> ", "output": " A mom holds her son\u2019s hand and jumps in the pool with him. "}
+{"input": " <expression> <mask_0> sitting <mask_1> table <mask_2> shot <mask_3> take <mask_4> </expression> ", "output": " The family is sitting at the table when they hear a shot take place outside. "}
+{"input": " <expression> <mask_0> throw <mask_1> stick <mask_2> dog <mask_3> fetch <mask_4> </expression> ", "output": " When men or women throw a stick to a dog the dog runs to fetch it. "}
+{"input": " <expression> <mask_0> lady <mask_1> sit <mask_2> wear <mask_3> sunglasses <mask_4> </expression> ", "output": " The lady chose to sit in her car, then she decided to wear her sunglasses. "}
+{"input": " <expression> <mask_0> wear <mask_1> goggles <mask_2> swim <mask_3> pool <mask_4> </expression> ", "output": " The kids like to wear goggles when they swim at the pool. "}
+{"input": " <expression> <mask_0> roll <mask_1> piece <mask_2> dough <mask_3> paper <mask_4> pin <mask_5> </expression> ", "output": " roll a piece of the dough on the baking paper using the pin they gave you. "}
+{"input": " <expression> <mask_0> hit <mask_1> ball <mask_2> stick <mask_3> ride <mask_4> horse <mask_5> </expression> ", "output": " During the polo match, the man hit the ball with a stick, during his ride on a horse. "}
+{"input": " <expression> <mask_0> worker <mask_1> lunch <mask_2> break <mask_3> work <mask_4> eat <mask_5> </expression> ", "output": " The worker takes a lunch break at work to eat. "}
+{"input": " <expression> <mask_0> drink <mask_1> beer <mask_2> sitting <mask_3> table <mask_4> talking <mask_5> </expression> ", "output": " It is nice to drink a beer while sitting at a table talking with friends. "}
+{"input": " <expression> <mask_0> walk <mask_1> park <mask_2> dog <mask_3> sit <mask_4> bench <mask_5> </expression> ", "output": " The man will take a walk to the park with his dog, and sit on the bench to watch the ducks. "}
+{"input": " <expression> <mask_0> sit <mask_1> table <mask_2> eat <mask_3> dinner <mask_4> family <mask_5> </expression> ", "output": " We sit at the table to eat dinner with the family. "}
+{"input": " <expression> <mask_0> wear <mask_1> shirt <mask_2> cooking <mask_3> meat <mask_4> grill <mask_5> </expression> ", "output": " You should wear a shirt while cooking meat on the grill. "}
+{"input": " <expression> <mask_0> wearing <mask_1> coat <mask_2> street <mask_3> holding <mask_4> umbrella <mask_5> </expression> ", "output": " A man wearing a coat walks down a street holding an umbrella. "}
+{"input": " <expression> <mask_0> stands <mask_1> front <mask_2> sink <mask_3> brushes <mask_4> teeth <mask_5> </expression> ", "output": " The girl stands in front of the sink and brushes her teeth. "}
+{"input": " <expression> <mask_0> digs <mask_1> hole <mask_2> ground <mask_3> plant <mask_4> tree <mask_5> </expression> ", "output": " A girl digs a hole in the ground to plant a tree. "}
+{"input": " <expression> <mask_0> player <mask_1> hit <mask_2> ball <mask_3> run <mask_4> base <mask_5> </expression> ", "output": " The baseball player hit the ball, made the run to first base and scored before the other team could touch the ball. "}
+{"input": " <expression> <mask_0> walks <mask_1> beach <mask_2> footprints <mask_3> holding <mask_4> shoes <mask_5> </expression> ", "output": " The girl walks on the beach making footprints in the sand while holding her shoes in her hand. "}
+{"input": " <expression> <mask_0> threw <mask_1> frisbee <mask_2> air <mask_3> dog <mask_4> catch <mask_5> </expression> ", "output": " The boy threw the frisbee in the air for the dog to catch. "}
+{"input": " <expression> <mask_0> braid <mask_1> jean <mask_2> shirt <mask_3> holds <mask_4> wire <mask_5> </expression> ", "output": " She is trying a braid, wearing a jean & shirt & holds a wire in her hands. "}
+{"input": " <expression> <mask_0> runs <mask_1> track <mask_2> jumps <mask_3> pile <mask_4> sand <mask_5> </expression> ", "output": " The girl runs around the track and jumps over the pile of sand. "}
+{"input": " <expression> <mask_0> stand <mask_1> apply <mask_2> dye <mask_3> hair <mask_4> bathroom <mask_5> </expression> ", "output": " The woman found it was easier to stand and apply dye to her hair using the bathroom mirror. "}
+{"input": " <expression> <mask_0> soldier <mask_1> taught <mask_2> student <mask_3> treat <mask_4> wound <mask_5> </expression> ", "output": " The soldier taught the student how to treat a wound. "}
+{"input": " <expression> <mask_0> skis <mask_1> holds <mask_2> rope <mask_3> boat <mask_4> pulls <mask_5> </expression> ", "output": " A man wears skis and holds a rope attached to a boat that pulls him. "}
+{"input": " <expression> <mask_0> pitcher <mask_1> throws <mask_2> ball <mask_3> batter <mask_4> game <mask_5> </expression> ", "output": " The pitcher throws the ball to the batter in the game of baseball. "}
+{"input": " <expression> <mask_0> barbell <mask_1> drops <mask_2> ground <mask_3> lift <mask_4> head <mask_5> </expression> ", "output": " A man picks up a barbell to workout, drops it on the ground. He picks it up again and lift it over his head. "}
+{"input": " <expression> <mask_0> individual <mask_1> walks <mask_2> wearing <mask_3> attire <mask_4> hat <mask_5> </expression> ", "output": " The individual model walks the ramp wearing the attire and a hat. "}
+{"input": " <expression> <mask_0> perform <mask_1> trick <mask_2> front <mask_3> swallowing <mask_4> sword <mask_5> </expression> ", "output": " I saw someone perform a trick in front of me by swallowing a sword. "}
+{"input": " <expression> <mask_0> crowd <mask_1> front <mask_2> stage <mask_3> band <mask_4> perform <mask_5> </expression> ", "output": " The crowd at the front of the stage watched the band perform. "}
+{"input": " <expression> <mask_0> look <mask_1> wearing <mask_2> suit <mask_3> climb <mask_4> mountain <mask_5> </expression> ", "output": " The man would look silly wearing a suit to climb up a mountain. "}
+{"input": " <expression> <mask_0> walk <mask_1> streets <mask_2> cars <mask_3> parked <mask_4> building <mask_5> </expression> ", "output": " You can walk easily in the streets if the cars are parked in the building courtyard. "}
+{"input": " <expression> <mask_0> sits <mask_1> chair <mask_2> eats <mask_3> food <mask_4> bowl <mask_5> </expression> ", "output": " The boy sits in his chair and eats the food in his bowl. "}
+{"input": " <expression> <mask_0> sitting <mask_1> chair <mask_2> clapping <mask_3> hands <mask_4> talking <mask_5> </expression> ", "output": " The man was sitting in the chair, clapping his hands while talking about his crazy day. "}
+{"input": " <expression> <mask_0> blows <mask_1> pops <mask_2> bubbles <mask_3> chewing <mask_4> gum <mask_5> </expression> ", "output": " A girl blows and pops bubbles while chewing her gum. "}
+{"input": " <expression> <mask_0> bridesmaid <mask_1> wears <mask_2> dress <mask_3> helps <mask_4> receive <mask_5> </expression> ", "output": " The bridesmaid wears a dress and helps the bride receive the ring. "}
+{"input": " <expression> <mask_0> stand <mask_1> river <mask_2> throw <mask_3> object <mask_4> water <mask_5> </expression> ", "output": " stand near the river and throw the object into the water "}
+{"input": " <expression> <mask_0> dog <mask_1> runs <mask_2> grass <mask_3> ball <mask_4> mouth <mask_5> </expression> ", "output": " The dog runs on the grass and catches the ball in its mouth. "}
+{"input": " <expression> <mask_0> drives <mask_1> car <mask_2> street <mask_3> line <mask_4> line <mask_5> </expression> ", "output": " A man drives his car down the street between the yellow center line and the white side line. "}
+{"input": " <expression> <mask_0> Discuss <mask_1> way <mask_2> protect <mask_3> phone <mask_4> water <mask_5> </expression> ", "output": " Discuss the way hoe we can protect our phone from  water shedding. "}
+{"input": " <expression> <mask_0> owner <mask_1> throws <mask_2> ball <mask_3> dog <mask_4> chase <mask_5> </expression> ", "output": " The owner throws the ball so his dog can chase it. "}
+{"input": " <expression> <mask_0> arm <mask_1> pull <mask_2> down <mask_3> gym <mask_4> performing <mask_5> </expression> ", "output": " A man uses his arm to pull down a cable in the gym while performing exercise. "}
+{"input": " <expression> <mask_0> couple <mask_1> hold <mask_2> hands <mask_3> walking <mask_4> street <mask_5> </expression> ", "output": " A couple hold hands while walking down the street. "}
+{"input": " <expression> <mask_0> discuss <mask_1> type <mask_2> pipe <mask_3> use <mask_4> wood <mask_5> </expression> ", "output": " We discuss the type of pipe to use instead of wood. "}
+{"input": " <expression> <mask_0> hands <mask_1> washed <mask_2> sink <mask_3> soap <mask_4> water <mask_5> </expression> ", "output": " hands must be washed in sink with soap and water before returning to work "}
+{"input": " <expression> <mask_0> holds <mask_1> deck <mask_2> cards <mask_3> hand <mask_4> shuffle <mask_5> </expression> ", "output": " A boy holds deck of cards in his hand and is ready to shuffle them. "}
+{"input": " <expression> <mask_0> microphone <mask_1> front <mask_2> sing <mask_3> audience <mask_4> sitting <mask_5> </expression> ", "output": " The woman stood at the microphone at the front of the stage and began to sing to the audience sitting in the stadium. "}
+{"input": " <expression> <mask_0> poured <mask_1> oil <mask_2> motorcycle <mask_3> sitting <mask_4> floor <mask_5> </expression> ", "output": " The man poured oil into the motorcycle sitting on the floor. "}
+{"input": " <expression> <mask_0> stood <mask_1> table <mask_2> eating <mask_3> watermelon <mask_4> hands <mask_5> </expression> ", "output": " The teenage girl stood a the table eating watermelon with her hands. "}
+{"input": " <expression> <mask_0> using <mask_1> blower <mask_2> blow <mask_3> leaves <mask_4> yard <mask_5> </expression> ", "output": " The man was using a leaf blower to blow the leaves into a pile in the yard. "}
+{"input": " <expression> <mask_0> falls <mask_1> riding <mask_2> bike <mask_3> jump <mask_4> ramp <mask_5> </expression> ", "output": " A boy falls riding his bike when he tried to jump on a ramp. "}
+{"input": " <expression> <mask_0> says <mask_1> faces <mask_2> laughing <mask_3> feet <mask_4> stick <mask_5> </expression> ", "output": " The girl says that faces start laughing as the feet stick together and fall. "}
+{"input": " <expression> <mask_0> threw <mask_1> ball <mask_2> lane <mask_3> knock <mask_4> pins <mask_5> </expression> ", "output": " The man threw the ball down the lane to knock down all of the pins. "}
+{"input": " <expression> <mask_0> Take <mask_1> place <mask_2> concert <mask_3> watch <mask_4> stage <mask_5> </expression> ", "output": " Take the boy to the place with the concert and watch the band on the stage. "}
+{"input": " <expression> <mask_0> dog <mask_1> performs <mask_2> tricks <mask_3> field <mask_4> frisbee <mask_5> </expression> ", "output": " The dog performs tricks in the field with a frisbee. "}
+{"input": " <expression> <mask_0> wears <mask_1> stands <mask_2> covers <mask_3> wall <mask_4> graffiti <mask_5> </expression> ", "output": " The man wears a hood as he stands and covers a wall with graffiti. "}
+{"input": " <expression> <mask_0> dogs <mask_1> water <mask_2> held <mask_3> stick <mask_4> mouth <mask_5> </expression> ", "output": " The dogs jumped in the water and held the stick in his mouth. "}
+{"input": " <expression> <mask_0> wears <mask_1> shirt <mask_2> drinks <mask_3> glass <mask_4> beer <mask_5> </expression> ", "output": " The man wears a shirt whilst he drinks his glass of beer. "}
+{"input": " <expression> <mask_0> blew <mask_1> candles <mask_2> birthday <mask_3> cake <mask_4> sang <mask_5> </expression> ", "output": " The boy blew out the candles on his birthday cake after his parents sang Happy Birthday. "}
+{"input": " <expression> <mask_0> bartender <mask_1> bottle <mask_2> toss <mask_3> pour <mask_4> drink <mask_5> </expression> ", "output": " The bartender picks the bottle and toss it and pour the drink in the glass. "}
+{"input": " <expression> <mask_0> took <mask_1> break <mask_2> ride <mask_3> check <mask_4> phone <mask_5> </expression> ", "output": " The woman took a break from her ride in her car to stop at a rest stop to check her phone. "}
+{"input": " <expression> <mask_0> picked <mask_1> apple <mask_2> tree <mask_3> put <mask_4> bag <mask_5> </expression> ", "output": " I picked an apple from the tree and put it in my bag. "}
+{"input": " <expression> <mask_0> take <mask_1> turn <mask_2> shoot <mask_3> ball <mask_4> net <mask_5> </expression> ", "output": " A teenager was about to take his turn, when he shoot the ball towards the net. "}
+{"input": " <expression> <mask_0> game <mask_1> clip <mask_2> follow <mask_3> graphic <mask_4> number <mask_5> </expression> ", "output": " We played a game on the movie clip, it was called follow the graphic number! "}
+{"input": " <expression> <mask_0> ride <mask_1> bike <mask_2> wear <mask_3> shirt <mask_4> helmet <mask_5> </expression> ", "output": " A girl ride a bike and wear a shirt and a helmet "}
+{"input": " <expression> <mask_0> hands <mask_1> run <mask_2> tap <mask_3> water <mask_4> rinse <mask_5> </expression> ", "output": " For clean hands, run hands under the tap and use water to rinse hands. "}
+{"input": " <expression> <mask_0> wore <mask_1> mask <mask_2> painted <mask_3> wall <mask_4> roller <mask_5> </expression> ", "output": " A man wore the mask while he painted the wall with the roller. "}
+{"input": " <expression> <mask_0> holds <mask_1> bottle <mask_2> machine <mask_3> fill <mask_4> liquid <mask_5> </expression> ", "output": " The woman holds the empty water bottle under the machine to fill it with liquid. "}
+{"input": " <expression> <mask_0> sits <mask_1> holding <mask_2> instrument <mask_3> hands <mask_4> blows <mask_5> </expression> ", "output": " A man sits holding an instrument in his hands and blows it. "}
+{"input": " <expression> <mask_0> holds <mask_1> pick <mask_2> hand <mask_3> tool <mask_4> lock <mask_5> </expression> ", "output": " The locksmith holds the pick in one hand and uses the tool to open the lock. "}
+{"input": " <expression> <mask_0> stands <mask_1> flag <mask_2> holds <mask_3> gun <mask_4> shoots <mask_5> </expression> ", "output": " The man stands by a flag holds his gun and shoots. "}
+{"input": " <expression> <mask_0> laughed <mask_1> piece <mask_2> paper <mask_3> ripped <mask_4> sitting <mask_5> </expression> ", "output": " The student laughed when the piece of paper ripped when sitting down. "}
+{"input": " <expression> <mask_0> dog <mask_1> leg <mask_2> catch <mask_3> ball <mask_4> stand <mask_5> </expression> ", "output": " The dog hurt his leg trying to catch a ball and now he cannot stand on it. "}
+{"input": " <expression> <mask_0> pierces <mask_1> ears <mask_2> wear <mask_3> gloves <mask_4> sit <mask_5> </expression> ", "output": " The woman who pierces ears should wear protective gloves and have the person sit when piercing ears.. "}
+{"input": " <expression> <mask_0> Sit <mask_1> chair <mask_2> hair <mask_3> cut <mask_4> clippers <mask_5> </expression> ", "output": " Sit in the chair to get your hair cut with clippers. "}
+{"input": " <expression> <mask_0> holding <mask_1> racket <mask_2> hits <mask_3> ball <mask_4> room <mask_5> </expression> ", "output": " A boy holding a racket hits a ball across the room. "}
+{"input": " <expression> <mask_0> dealer <mask_1> table <mask_2> deal <mask_3> chips <mask_4> card <mask_5> </expression> ", "output": " At the dealer table, I made a deal, and i put all my chips in for a certian card. "}
+{"input": " <expression> <mask_0> goalie <mask_1> moves <mask_2> practice <mask_3> protect <mask_4> goal <mask_5> </expression> ", "output": " A goalie moves backwards in a football practice to protect his net from goal. "}
+{"input": " <expression> <mask_0> alligator <mask_1> sit <mask_2> hold <mask_3> mouth <mask_4> top <mask_5> </expression> ", "output": " The alligator liked to sit and hold its mouth open on top of the water. "}
+{"input": " <expression> <mask_0> stops <mask_1> cars <mask_2> crosswalk <mask_3> cross <mask_4> street <mask_5> </expression> ", "output": " The boy stops and looks for cars before using the crosswalk to cross the street. "}
+{"input": " <expression> <mask_0> surfer <mask_1> rides <mask_2> wave <mask_3> ocean <mask_4> surfboard <mask_5> </expression> ", "output": " The surfer rides the wave in the ocean by standing on a surfboard. "}
+{"input": " <expression> <mask_0> Begin <mask_1> pouring <mask_2> ingredients <mask_3> pot <mask_4> stir <mask_5> </expression> ", "output": " Begin dinner by pouring the ingredients into the pot and stir. "}
+{"input": " <expression> <mask_0> wears <mask_1> mitt <mask_2> catches <mask_3> ball <mask_4> helmet <mask_5> </expression> ", "output": " The wicket keeper wears the mitt and catches the ball after the ball hit the helmet. "}
+{"input": " <expression> <mask_0> climbing <mask_1> ladder <mask_2> clean <mask_3> gutter <mask_4> house <mask_5> </expression> ", "output": " James is climbing on a ladder to clean the gutter of John's house. "}
+{"input": " <expression> <mask_0> standing <mask_1> front <mask_2> give <mask_3> report <mask_4> screen <mask_5> </expression> ", "output": " When I walked into the room a man was standing at the front to give a report on his sales, he was using a pointer to point out current sale percentages on the screen. "}
+{"input": " <expression> <mask_0> toddler <mask_1> room <mask_2> walks <mask_3> toys <mask_4> hold <mask_5> </expression> ", "output": " the toddler in the room walks towards his toys to hold them. "}
+{"input": " <expression> <mask_0> drives <mask_1> truck <mask_2> street <mask_3> picks <mask_4> trash <mask_5> </expression> ", "output": " The man drives a truck down the street while he picks up trash from different houses. "}
+{"input": " <expression> <mask_0> sit <mask_1> floor <mask_2> build <mask_3> house <mask_4> cards <mask_5> </expression> ", "output": " The children sit on the floor and build a huge house of cards. "}
+{"input": " <expression> <mask_0> hit <mask_1> ball <mask_2> range <mask_3> music <mask_4> background <mask_5> </expression> ", "output": " The teenager hit his ball in the range of 20 feet while music played in the background. "}
+{"input": " <expression> <mask_0> throws <mask_1> item <mask_2> knocks <mask_3> card <mask_4> table <mask_5> </expression> ", "output": " The boy throws the item and it knocks the card off the table. "}
+{"input": " <expression> <mask_0> sat <mask_1> couch <mask_2> turned <mask_3> newspaper <mask_4> pages <mask_5> </expression> ", "output": " Grandfather sat on the couch and turned the newspaper pages, reading the classifieds. "}
+{"input": " <expression> <mask_0> continue <mask_1> watch <mask_2> hit <mask_3> ball <mask_4> side <mask_5> </expression> ", "output": " The boy can continue to watch them hit the ball from the side line. "}
+{"input": " <expression> <mask_0> surfer <mask_1> beach <mask_2> day <mask_3> surf <mask_4> waves <mask_5> </expression> ", "output": " The surfer went to the beach on a sunny day to surf the waves. "}
+{"input": " <expression> <mask_0> helped <mask_1> toddler <mask_2> push <mask_3> cart <mask_4> store <mask_5> </expression> ", "output": " The big brother helped the toddler push the cart to the store. "}
+{"input": " <expression> <mask_0> teacher <mask_1> stand <mask_2> front <mask_3> class <mask_4> move <mask_5> </expression> ", "output": " A saw a teacher stand in front of a class and not move. "}
+{"input": " <expression> <mask_0> workers <mask_1> wear <mask_2> vests <mask_3> work <mask_4> train <mask_5> </expression> ", "output": " The workers wear vests when they work on the train. "}
+{"input": " <expression> <mask_0> holds <mask_1> object <mask_2> hand <mask_3> wears <mask_4> shirt <mask_5> </expression> ", "output": " The girl holds an object in her hand and wears a blue shirt. "}
+{"input": " <expression> <mask_0> demonstrates <mask_1> machine <mask_2> needle <mask_3> sew <mask_4> thread <mask_5> </expression> ", "output": " a boy demonstrates how to use a machine instead of using a needle to sew and thread. "}
+{"input": " <expression> <mask_0> kid <mask_1> throws <mask_2> bunch <mask_3> balls <mask_4> field <mask_5> </expression> ", "output": " A kid throws a bunch of balls on the field. "}
+{"input": " <expression> <mask_0> board <mask_1> dice <mask_2> moving <mask_3> piece <mask_4> roll <mask_5> </expression> ", "output": " they were playing with ludo board using dice and moving the piece of dolls when their roll come "}
+{"input": " <expression> <mask_0> game <mask_1> crowd <mask_2> cheered <mask_3> took <mask_4> place <mask_5> </expression> ", "output": " At the football game, the crowd cheered when the touchdown took place. "}
+{"input": " <expression> <mask_0> shoot <mask_1> arrow <mask_2> prepare <mask_3> bow <mask_4> target <mask_5> </expression> ", "output": " To shoot an arrow you need to prepare the bow so that it reaches the target. "}
+{"input": " <expression> <mask_0> gave <mask_1> award <mask_2> standing <mask_3> podium <mask_4> talking <mask_5> </expression> ", "output": " The chairman gave an award while standing at the podium and talking to the audience. "}
+{"input": " <expression> <mask_0> hold <mask_1> sign <mask_2> peace <mask_3> reading <mask_4> teaches <mask_5> </expression> ", "output": " I hold a book with the sign of peace on the cover and reading it which teaches me a lot. "}
+{"input": " <expression> <mask_0> holding <mask_1> ball <mask_2> turns <mask_3> throw <mask_4> circle <mask_5> </expression> ", "output": " The coach is holding the ball and turns it slightly to throw into the circle as target "}
+{"input": " <expression> <mask_0> bang <mask_1> heads <mask_2> listen <mask_3> beats <mask_4> music <mask_5> </expression> ", "output": " The youth bang their heads as they listen to the beats of the music. "}
+{"input": " <expression> <mask_0> cut <mask_1> hold <mask_2> piece <mask_3> wood <mask_4> saw <mask_5> </expression> ", "output": " One can cut and hold a piece of wood with the saw. "}
+{"input": " <expression> <mask_0> kids <mask_1> game <mask_2> rock <mask_3> paper <mask_4> scissors <mask_5> </expression> ", "output": " The kids solved disagreements by playing the game rock, paper, scissors. "}
+{"input": " <expression> <mask_0> kid <mask_1> line <mask_2> ride <mask_3> sit <mask_4> bench <mask_5> </expression> ", "output": " The kid stood in line for the ride while I chose to sit on the bench. "}
+{"input": " <expression> <mask_0> uses <mask_1> brush <mask_2> apply <mask_3> makeup <mask_4> face <mask_5> </expression> ", "output": " The woman uses her brush to apply makeup to her face. "}
+{"input": " <expression> <mask_0> performs <mask_1> triceps <mask_2> exercises <mask_3> gym <mask_4> pushing <mask_5> </expression> ", "output": " The woman performs triceps exercises at the gym by pushing a weight over her head. "}
+{"input": " <expression> <mask_0> laughs <mask_1> sitting <mask_2> floor <mask_3> eating <mask_4> chips <mask_5> </expression> ", "output": " The mother laughs at the little girl sitting on the floor and eating chips "}
+{"input": " <expression> <mask_0> lady <mask_1> cellphone <mask_2> sit <mask_3> talk <mask_4> step <mask_5> </expression> ", "output": " A pretty lady uses her cellphone to sit and talk on the step. "}
+{"input": " <expression> <mask_0> poured <mask_1> beer <mask_2> glass <mask_3> tap <mask_4> bar <mask_5> </expression> ", "output": " A man poured a beer into a glass from the tap in a bar "}
+{"input": " <expression> <mask_0> Hold <mask_1> animal <mask_2> stuff <mask_3> pierce <mask_4> ear <mask_5> </expression> ", "output": " Hold the animal down while I get the stuff to pierce her ear. "}
+{"input": " <expression> <mask_0> begin <mask_1> music <mask_2> dance <mask_3> floor <mask_4> stand <mask_5> </expression> ", "output": " The conductor asked to begin the music so the dance floor would stand at attention. "}
+{"input": " <expression> <mask_0> hold <mask_1> fork <mask_2> hand <mask_3> eat <mask_4> spaghetti <mask_5> </expression> ", "output": " She has to hold the fork with her hand to eat the spaghetti "}
+{"input": " <expression> <mask_0> tree <mask_1> standing <mask_2> sun <mask_3> shone <mask_4> leaves <mask_5> </expression> ", "output": " The tree was standing while the sun shone on it's leaves. "}
+{"input": " <expression> <mask_0> wears <mask_1> goggles <mask_2> swimming <mask_3> pool <mask_4> water <mask_5> </expression> ", "output": " A boy wears goggles when swimming in a pool of water "}
+{"input": " <expression> <mask_0> Stir <mask_1> food <mask_2> fry <mask_3> pan <mask_4> spatula <mask_5> </expression> ", "output": " Stir the food in the fry pan with a spatula. "}
+{"input": " <expression> <mask_0> cowboy <mask_1> rodeo <mask_2> ride <mask_3> bronco <mask_4> buck <mask_5> </expression> ", "output": " A cowboy at the rodeo took a ride on a bronco, which proceeded to buck him off. "}
+{"input": " <expression> <mask_0> wears <mask_1> mask <mask_2> holds <mask_3> banner <mask_4> sign <mask_5> </expression> ", "output": " The man wears a mask while he holds the banner and his friend holds a sign. "}
+{"input": " <expression> <mask_0> kid <mask_1> stand <mask_2> fence <mask_3> fed <mask_4> goat <mask_5> </expression> ", "output": " The kid was told to stand by the fence while he fed the goat. "}
+{"input": " <expression> <mask_0> band <mask_1> consists <mask_2> drummer <mask_3> guitarist <mask_4> perform <mask_5> </expression> ", "output": " The band consists of a drummer and guitarist who will perform tonight. "}
+{"input": " <expression> <mask_0> drill <mask_1> drill <mask_2> hole <mask_3> piece <mask_4> wood <mask_5> </expression> ", "output": " He used the drill to drill a hole into a piece of wood. "}
+{"input": " <expression> <mask_0> carrying <mask_1> purse <mask_2> walked <mask_3> front <mask_4> building <mask_5> </expression> ", "output": " The woman carrying her purse walked in front of the building. "}
+{"input": " <expression> <mask_0> vendor <mask_1> market <mask_2> sells <mask_3> fruits <mask_4> vegetables <mask_5> </expression> ", "output": " The produce vendor in the market sells fruits and vegetables. "}
+{"input": " <expression> <mask_0> climbed <mask_1> rope <mask_2> throw <mask_3> ball <mask_4> air <mask_5> </expression> ", "output": " The girl climbed up the rope in order to throw the ball into the open air. "}
+{"input": " <expression> <mask_0> gym <mask_1> pull <mask_2> weights <mask_3> exercise <mask_4> machines <mask_5> </expression> ", "output": " A boy goes to the gym to pull some weights and use other exercise machines. "}
+{"input": " <expression> <mask_0> fruit <mask_1> juice <mask_2> prevents <mask_3> treats <mask_4> oxidation <mask_5> </expression> ", "output": " The fruit in juice prevents and treats oxidation. "}
+{"input": " <expression> <mask_0> bench <mask_1> front <mask_2> building <mask_3> sit <mask_4> stand <mask_5> </expression> ", "output": " The bench in front of the building is a place groups like to gather to sit or stand. "}
+{"input": " <expression> <mask_0> took <mask_1> drink <mask_2> drink <mask_3> cup <mask_4> vomited <mask_5> </expression> ", "output": " She took a drink from the cup then vomited in the sink "}
+{"input": " <expression> <mask_0> front <mask_1> gym <mask_2> lifting <mask_3> mirrors <mask_4> weights <mask_5> </expression> ", "output": " The front of the gym had people lifting in front of the mirrors using weights. "}
+{"input": " <expression> <mask_0> skateboarder <mask_1> jumped <mask_2> ramp <mask_3> shirt <mask_4> wore <mask_5> </expression> ", "output": " The skateboarder jumped over the ramp and tore the shirt he wore that day. "}
+{"input": " <expression> <mask_0> calf <mask_1> rope <mask_2> rodeo <mask_3> riding <mask_4> horse <mask_5> </expression> ", "output": " The calf was tied up with rope at the rodeo by a man riding a horse. "}
+{"input": " <expression> <mask_0> continued <mask_1> dance <mask_2> end <mask_3> holding <mask_4> pose <mask_5> </expression> ", "output": " As the man continued creating his dance the man chose to end it by holding his final pose. "}
+{"input": " <expression> <mask_0> player <mask_1> slide <mask_2> home <mask_3> catcher <mask_4> tag <mask_5> </expression> ", "output": " The player hit the ball and tried to slide to home base, but the catcher was able to tag him. "}
+{"input": " <expression> <mask_0> stands <mask_1> court <mask_2> tossing <mask_3> ball <mask_4> wall <mask_5> </expression> ", "output": " A boy stands in the basketball court tossing a ball against the wall. "}
+{"input": " <expression> <mask_0> pull <mask_1> chair <mask_2> floor <mask_3> sit <mask_4> sander <mask_5> </expression> ", "output": " The worker had to pull his chair across the floor to sit and use his sander. "}
+{"input": " <expression> <mask_0> hand <mask_1> hold <mask_2> dart <mask_3> throw <mask_4> board <mask_5> </expression> ", "output": " A player used his right hand to hold a dart and throw it at a board in the pub. "}
+{"input": " <expression> <mask_0> basketball <mask_1> team <mask_2> pass <mask_3> ball <mask_4> game <mask_5> </expression> ", "output": " The basketball team likes to pass ball before every game. "}
+{"input": " <expression> <mask_0> dog <mask_1> jumped <mask_2> fence <mask_3> bird <mask_4> mouth <mask_5> </expression> ", "output": " A dog jumped the fence to catch a bird in its mouth. "}
+{"input": " <expression> <mask_0> holding <mask_1> knife <mask_2> hand <mask_3> peeled <mask_4> orange <mask_5> </expression> ", "output": " Steadily holding the knife in hand, Sarah peeled the rind from the orange. "}
+{"input": " <expression> <mask_0> cuts <mask_1> pineapple <mask_2> knife <mask_3> music <mask_4> background <mask_5> </expression> ", "output": " A man cuts pineapple using a knife by playing music in the background "}
+{"input": " <expression> <mask_0> stand <mask_1> close <mask_2> eye <mask_3> solve <mask_4> cube <mask_5> </expression> ", "output": " While you stand, close your eye to solve the cube. "}
+{"input": " <expression> <mask_0> holding <mask_1> book <mask_2> reading <mask_3> turned <mask_4> page <mask_5> </expression> ", "output": " A young girl is holding a book, after she finished reading, she turned the page. "}
+{"input": " <expression> <mask_0> wear <mask_1> boxing <mask_2> gloves <mask_3> hits <mask_4> bags <mask_5> </expression> ", "output": " The boxer loves to wear his boxing gloves at the gym, he hits the boxing bags to prepare for boxing match. "}
+{"input": " <expression> <mask_0> ride <mask_1> scooter <mask_2> punch <mask_3> knocks <mask_4> bag <mask_5> </expression> ", "output": " I ride on my scooter and out of nowhere a passerby swings a punch that knocks me off and I land on my bag "}
+{"input": " <expression> <mask_0> box <mask_1> key <mask_2> attached <mask_3> open <mask_4> use <mask_5> </expression> ", "output": " The box had a key attached to it for the man to open and use the contents as directed. "}
+{"input": " <expression> <mask_0> athlete <mask_1> run <mask_2> track <mask_3> leap <mask_4> hurdle <mask_5> </expression> ", "output": " The athlete  will run around the track and leap over the hurdle. "}
+{"input": " <expression> <mask_0> shoes <mask_1> opening <mask_2> bottle <mask_3> hits <mask_4> wall <mask_5> </expression> ", "output": " A boy wearing red shoes drinks water  opening a bottle and hits the wall using the empty bottle to hear the sounds. "}
+{"input": " <expression> <mask_0> demonstrated <mask_1> shift <mask_2> gears <mask_3> driving <mask_4> car <mask_5> </expression> ", "output": " A teenager demonstrated that he knew how to shift gears while driving a car. "}
+{"input": " <expression> <mask_0> sat <mask_1> used <mask_2> pen <mask_3> beat <mask_4> drum <mask_5> </expression> ", "output": " A boy sat at the table and used a pen to beat on it like a drum. "}
+{"input": " <expression> <mask_0> cream <mask_1> bathroom <mask_2> shave <mask_3> head <mask_4> razor <mask_5> </expression> ", "output": " There is shaving cream in the bathroom to help shave grandpa's head with the razor. "}
+{"input": " <expression> <mask_0> explained <mask_1> steps <mask_2> fold <mask_3> piece <mask_4> paper <mask_5> </expression> ", "output": " The teacher explained the steps of how to fold a piece of paper. "}
+{"input": " <expression> <mask_0> bird <mask_1> landed <mask_2> water <mask_3> catch <mask_4> fish <mask_5> </expression> ", "output": " A bird landed on the water to catch a fish. "}
+{"input": " <expression> <mask_0> hit <mask_1> ball <mask_2> swing <mask_3> club <mask_4> course <mask_5> </expression> ", "output": " We hit the ball with a good swing from the golf club on the course today. "}
+{"input": " <expression> <mask_0> chisel <mask_1> hammer <mask_2> carve <mask_3> piece <mask_4> wood <mask_5> </expression> ", "output": " The artist used the chisel and hammer to carve the piece of wood into a work of art. "}
+{"input": " <expression> <mask_0> wore <mask_1> dress <mask_2> shoes <mask_3> sitting <mask_4> table <mask_5> </expression> ", "output": " The lady wore her dress and shoes while sitting at the table. "}
+{"input": " <expression> <mask_0> looks <mask_1> mirror <mask_2> irons <mask_3> hair <mask_4> curl <mask_5> </expression> ", "output": " A woman looks in the mirror and irons her hair to curl it. "}
+{"input": " <expression> <mask_0> dog <mask_1> jumped <mask_2> counter <mask_3> eat <mask_4> placed <mask_5> </expression> ", "output": " The dog jumped on the counter to eat the food placed there. "}
+{"input": " <expression> <mask_0> carries <mask_1> flag <mask_2> riding <mask_3> horse <mask_4> arena <mask_5> </expression> ", "output": " The cowboy carries a Mexican flag while riding a horse in the arena. "}
+{"input": " <expression> <mask_0> smoke <mask_1> smoke <mask_2> hookah <mask_3> blows <mask_4> mouth <mask_5> </expression> ", "output": " The man likes to smoke hookah, he watches the smoke fill the room as he blows it out of his mouth. "}
+{"input": " <expression> <mask_0> fence <mask_1> attempts <mask_2> stick <mask_3> threw <mask_4> knife <mask_5> </expression> ", "output": " A man against a fence attempts to fight using a stick against another man who threw a knife at him. "}
+{"input": " <expression> <mask_0> walk <mask_1> background <mask_2> mountains <mask_3> covered <mask_4> snow <mask_5> </expression> ", "output": " We walk down the trail admiring the background of mountains covered in snow. "}
+{"input": " <expression> <mask_0> demonstrates <mask_1> technique <mask_2> knit <mask_3> yarn <mask_4> needle <mask_5> </expression> ", "output": " The grandmother demonstrates to the children the technique used to knit with yarn and a needle. "}
+{"input": " <expression> <mask_0> worker <mask_1> wear <mask_2> hat <mask_3> dig <mask_4> hole <mask_5> </expression> ", "output": " The worker wear a hat to dig the hole. "}
+{"input": " <expression> <mask_0> use <mask_1> markers <mask_2> color <mask_3> map <mask_4> country <mask_5> </expression> ", "output": " I use markers to color the map of my country. "}
+{"input": " <expression> <mask_0> stands <mask_1> water <mask_2> cliff <mask_3> edge <mask_4> jump <mask_5> </expression> ", "output": " The teen stands looking at the water below the cliff edge, ready to jump. "}
+{"input": " <expression> <mask_0> wears <mask_1> walks <mask_2> street <mask_3> carries <mask_4> bag <mask_5> </expression> ", "output": " The man wears a jacket as he walks down the street and carries a bag. "}
+{"input": " <expression> <mask_0> pressed <mask_1> button <mask_2> inserted <mask_3> coin <mask_4> machine <mask_5> </expression> ", "output": " The girls pressed the button and inserted a coin into the machine. "}
+{"input": " <expression> <mask_0> wash <mask_1> washer <mask_2> hangs <mask_3> buildings <mask_4> window <mask_5> </expression> ", "output": " The lady takes the wash out of the washer and hangs them out the buildings window to dry. "}
+{"input": " <expression> <mask_0> front <mask_1> hat <mask_2> jacket <mask_3> stand <mask_4> wear <mask_5> </expression> ", "output": " At the front, the soldier's hat and jacket stand on a mound of dirt, making the items too dirty to wear. "}
+{"input": " <expression> <mask_0> dance <mask_1> music <mask_2> stage <mask_3> front <mask_4> audience <mask_5> </expression> ", "output": " The kids dance to music on stage in front of an audience. "}
+{"input": " <expression> <mask_0> crowd <mask_1> watched <mask_2> juggle <mask_3> fire <mask_4> sticks <mask_5> </expression> ", "output": " A crowd had started to gather around the woman and her son as they watched a man dressed as a clown juggle three fire sticks on the side of the street. "}
+{"input": " <expression> <mask_0> dog <mask_1> holds <mask_2> rope <mask_3> teeth <mask_4> air <mask_5> </expression> ", "output": " The dog holds the rope in his teeth and is up in the air. "}
+{"input": " <expression> <mask_0> attempt <mask_1> piece <mask_2> clothing <mask_3> floor <mask_4> fold <mask_5> </expression> ", "output": " I attempt to pick up a piece of my clothing off the floor and fold it neatly "}
+{"input": " <expression> <mask_0> officer <mask_1> directed <mask_2> traffic <mask_3> blowing <mask_4> whistle <mask_5> </expression> ", "output": " The officer directed traffic by blowing the whistle. "}
+{"input": " <expression> <mask_0> ball <mask_1> rope <mask_2> sitting <mask_3> exercises <mask_4> gym <mask_5> </expression> ", "output": " The ladies use the yoga ball and rope for sitting exercises during the gym fitness class. "}
+{"input": " <expression> <mask_0> hit <mask_1> gong <mask_2> mallet <mask_3> standing <mask_4> front <mask_5> </expression> ", "output": " The musician hit the gong with a mallet while standing in front of the audience. "}
+{"input": " <expression> <mask_0> begins <mask_1> routine <mask_2> performs <mask_3> jump <mask_4> beam <mask_5> </expression> ", "output": " The girl gymnast begins her routine and performs a jump on the beam. "}
+{"input": " <expression> <mask_0> animals <mask_1> catch <mask_2> horse <mask_3> lasso <mask_4> ride <mask_5> </expression> ", "output": " I went to a farm with animals, and while i was there i saw a guy catch a horse with a lasso and then ride it. "}
+{"input": " <expression> <mask_0> rubbed <mask_1> hair <mask_2> face <mask_3> stuck <mask_4> tongue <mask_5> </expression> ", "output": " She rubbed her hair in his face as he stuck out his tongue. "}
+{"input": " <expression> <mask_0> stand <mask_1> kitchen <mask_2> flip <mask_3> pancake <mask_4> pan <mask_5> </expression> ", "output": " The children stand around Grandpa in the kitchen as he would flip the pancake into the pan with ease. "}
+{"input": " <expression> <mask_0> Sit <mask_1> piano <mask_2> hit <mask_3> key <mask_4> smile <mask_5> </expression> ", "output": " Sit next to the piano, hit the key, and smile. "}
+{"input": " <expression> <mask_0> dog <mask_1> walks <mask_2> fireplace <mask_3> table <mask_4> game <mask_5> </expression> ", "output": " The dog walks from the fireplace to the table as the family plays the game. "}
+{"input": " <expression> <mask_0> couple <mask_1> sitting <mask_2> bench <mask_3> tying <mask_4> balloons <mask_5> </expression> ", "output": " A couple was sitting on a bench tying balloons together. "}
+{"input": " <expression> <mask_0> use <mask_1> bottle <mask_2> separate <mask_3> yolk <mask_4> white <mask_5> </expression> ", "output": " The chef will use a bottle to separate the egg yolk from the white. "}
+{"input": " <expression> <mask_0> family <mask_1> walks <mask_2> track <mask_3> dog <mask_4> winter <mask_5> </expression> ", "output": " The family walks down the track with their dog in the winter. "}
+{"input": " <expression> <mask_0> car <mask_1> kid <mask_2> sunglass <mask_3> dance <mask_4> music <mask_5> </expression> ", "output": " The car holds a kid who is wearing his sunglass listening to dance music. "}
+{"input": " <expression> <mask_0> player <mask_1> rides <mask_2> horse <mask_3> field <mask_4> mallet <mask_5> </expression> ", "output": " A polo player rides a horse on the field and hits the ball with a mallet. "}
+{"input": " <expression> <mask_0> kid <mask_1> looked <mask_2> goldfish <mask_3> water <mask_4> floor <mask_5> </expression> ", "output": " The kid looked at the goldfish that flipped out of the water and fell on the floor. "}
+{"input": " <expression> <mask_0> comes <mask_1> bag <mask_2> machine <mask_3> worker <mask_4> collects <mask_5> </expression> ", "output": " He comes to work with a bag. He is a machine worker. After he is done with work, he collects money & leaves. "}
+{"input": " <expression> <mask_0> Standing <mask_1> top <mask_2> mountain <mask_3> raised <mask_4> arms <mask_5> </expression> ", "output": " Standing on top of the mountain, the girl raised their arms up in the air. "}
+{"input": " <expression> <mask_0> sat <mask_1> read <mask_2> book <mask_3> wear <mask_4> shirt <mask_5> </expression> ", "output": " The girls sat and read a book about what to wear, he though a shirt would look nice. "}
+{"input": " <expression> <mask_0> stands <mask_1> spraying <mask_2> water <mask_3> grass <mask_4> hose <mask_5> </expression> ", "output": " The man stands in yard in the evenings spraying water on the grass with the a hose. "}
+{"input": " <expression> <mask_0> dog <mask_1> carried <mask_2> toy <mask_3> mouth <mask_4> walked <mask_5> </expression> ", "output": " The boy's dog carried a toy in his mouth while they walked. "}
+{"input": " <expression> <mask_0> continued <mask_1> flip <mask_2> jump <mask_3> side <mask_4> ended <mask_5> </expression> ", "output": " The gymnast continued to flip and jump from side to side until she ended her routine. "}
+{"input": " <expression> <mask_0> kids <mask_1> talking <mask_2> building <mask_3> castle <mask_4> beach <mask_5> </expression> ", "output": " The kids were talking about school while building a sand castle on the beach. "}
+{"input": " <expression> <mask_0> kids <mask_1> gather <mask_2> leaves <mask_3> put <mask_4> bags <mask_5> </expression> ", "output": " The kids gather leaves and put them into bags. "}
+{"input": " <expression> <mask_0> drum <mask_1> sit <mask_2> hit <mask_3> cymbal <mask_4> stick <mask_5> </expression> ", "output": " In a drum set you sit and hit the cymbal with the stick. "}
+{"input": " <expression> <mask_0> sit <mask_1> table <mask_2> beat <mask_3> tap <mask_4> music <mask_5> </expression> ", "output": " I sit down at the the table to beat or tap on my music machine. "}
+{"input": " <expression> <mask_0> kid <mask_1> balloon <mask_2> running <mask_3> throwing <mask_4> yard <mask_5> </expression> ", "output": " The neighbor gave the kid a balloon for running and throwing the dog toy back in the yard. "}
+{"input": " <expression> <mask_0> clean <mask_1> gutter <mask_2> use <mask_3> stand <mask_4> roof <mask_5> </expression> ", "output": " The woman was hired to clean the gutter people use every day. A bird can stand on a roof and sing for a long time.. "}
+{"input": " <expression> <mask_0> hand <mask_1> press <mask_2> hold <mask_3> control <mask_4> button <mask_5> </expression> ", "output": " The man used his hand to press and hold the control button. "}
+{"input": " <expression> <mask_0> sharpener <mask_1> sharpen <mask_2> pencil <mask_3> hold <mask_4> hand <mask_5> </expression> ", "output": " I need a sharpener to sharpen the blunt pencil I hold in my hand "}
+{"input": " <expression> <mask_0> beach <mask_1> holds <mask_2> hands <mask_3> looks <mask_4> water <mask_5> </expression> ", "output": " A couple at the beach holds hands and looks at the water. "}
+{"input": " <expression> <mask_0> begins <mask_1> brush <mask_2> front <mask_3> hair <mask_4> mirror <mask_5> </expression> ", "output": " The girl begins to brush the front of her hair in front of the mirror. "}
+{"input": " <expression> <mask_0> players <mask_1> jerseys <mask_2> hold <mask_3> sticks <mask_4> stand <mask_5> </expression> ", "output": " The players wearing jerseys hold their sticks as they stand near the stadium. "}
+{"input": " <expression> <mask_0> used <mask_1> knife <mask_2> cut <mask_3> piece <mask_4> meat <mask_5> </expression> ", "output": " The man used a knife to cut a piece of meat from the roast. "}
+{"input": " <expression> <mask_0> wash <mask_1> brush <mask_2> hair <mask_3> shave <mask_4> tooth <mask_5> </expression> ", "output": " In the morning, I wash up, brush my hair, shave and check my tooth. "}
+{"input": " <expression> <mask_0> chef <mask_1> cuts <mask_2> piece <mask_3> tomato <mask_4> board <mask_5> </expression> ", "output": " A chef cuts a piece of tomato on the board. "}
+{"input": " <expression> <mask_0> athlete <mask_1> runs <mask_2> field <mask_3> throw <mask_4> javelin <mask_5> </expression> ", "output": " The athlete runs down the field to throw the javelin. "}
+{"input": " <expression> <mask_0> demonstrated <mask_1> cook <mask_2> scrambled <mask_3> eggs <mask_4> pan <mask_5> </expression> ", "output": " The man demonstrated how to cook scrambled eggs in a pan. "}
+{"input": " <expression> <mask_0> dogs <mask_1> pulls <mask_2> snow <mask_3> sled <mask_4> team <mask_5> </expression> ", "output": " The dogs pulls for a snow sled team. "}
+{"input": " <expression> <mask_0> uses <mask_1> clippers <mask_2> hair <mask_3> shave <mask_4> heads <mask_5> </expression> ", "output": " The barber uses clippers to cut hair and shave heads. "}
+{"input": " <expression> <mask_0> uses <mask_1> tools <mask_2> cut <mask_3> blocks <mask_4> wood <mask_5> </expression> ", "output": " My grandpa uses tools to cut blocks of wood. "}
+{"input": " <expression> <mask_0> surf <mask_1> waves <mask_2> shore <mask_3> water <mask_4> crashes <mask_5> </expression> ", "output": " Boys like to surf the waves at the shore, before the water crashes. "}
+{"input": " <expression> <mask_0> ran <mask_1> ball <mask_2> hoop <mask_3> jump <mask_4> dunk <mask_5> </expression> ", "output": " The boy ran the ball up to the hoop to jump up and make his first slam dunk. "}
+{"input": " <expression> <mask_0> dog <mask_1> climb <mask_2> ladder <mask_3> follow <mask_4> roof <mask_5> </expression> ", "output": " The dog attempts to climb the ladder to follow the man onto the roof. "}
+{"input": " <expression> <mask_0> kid <mask_1> watching <mask_2> fish <mask_3> swim <mask_4> tank <mask_5> </expression> ", "output": " The kid loved watching the fish swim in the big tank. "}
+{"input": " <expression> <mask_0> demonstrates <mask_1> use <mask_2> gauge <mask_3> check <mask_4> pressure <mask_5> </expression> ", "output": " The man demonstrates how to use the gauge to check the pressure. "}
+{"input": " <expression> <mask_0> wears <mask_1> welding <mask_2> piece <mask_3> gear <mask_4> metal <mask_5> </expression> ", "output": " A machine worker wears a mask while welding a piece of a gear and metal together. "}
+{"input": " <expression> <mask_0> throws <mask_1> baton <mask_2> air <mask_3> spins <mask_4> performs <mask_5> </expression> ", "output": " A young girl throws a baton in the air and spins while she performs her dance routine. "}
+{"input": " <expression> <mask_0> worker <mask_1> holds <mask_2> shovel <mask_3> examining <mask_4> field <mask_5> </expression> ", "output": " a worker holds a shovel in his hand while examining his field of vegetables "}
+{"input": " <expression> <mask_0> threw <mask_1> wall <mask_2> hit <mask_3> fall <mask_4> ground <mask_5> </expression> ", "output": " The boy threw a ball at the wall, but it bounced off and hit him which made him fall to the ground. "}
+{"input": " <expression> <mask_0> bottle <mask_1> crack <mask_2> egg <mask_3> yolk <mask_4> bowl <mask_5> </expression> ", "output": " The woman use a bottle to crack an egg yolk and put in a bowl. "}
+{"input": " <expression> <mask_0> music <mask_1> hand <mask_2> pick <mask_3> fruit <mask_4> tree <mask_5> </expression> ", "output": " A girl listened to music while using a hand to pick fruit from a tree. "}
+{"input": " <expression> <mask_0> dog <mask_1> sitting <mask_2> couch <mask_3> watching <mask_4> television <mask_5> </expression> ", "output": " The dog was sitting on the couch watching television with the boy. "}
+{"input": " <expression> <mask_0> fire <mask_1> roast <mask_2> pig <mask_3> turn <mask_4> stick <mask_5> </expression> ", "output": " The person built a fire to roast a pig and turn it with a stick. "}
+{"input": " <expression> <mask_0> hand <mask_1> shakes <mask_2> silhouette <mask_3> world <mask_4> map <mask_5> </expression> ", "output": " My hand shakes at the silhouette of the world on the map. "}
+{"input": " <expression> <mask_0> demonstrates <mask_1> drill <mask_2> peeler <mask_3> peels <mask_4> apple <mask_5> </expression> ", "output": " The man demonstrates how the small drill works as a peeler as he peels the apple. "}
+{"input": " <expression> <mask_0> stands <mask_1> field <mask_2> watch <mask_3> player <mask_4> team <mask_5> </expression> ", "output": " The coach stands on the field to watch the player as he interacts with the team. "}
+{"input": " <expression> <mask_0> eat <mask_1> food <mask_2> hand <mask_3> put <mask_4> mouth <mask_5> </expression> ", "output": " A group of teenagers eat some food that they picked by hand and then put into their mouth. "}
+{"input": " <expression> <mask_0> writes <mask_1> word <mask_2> pepper <mask_3> piece <mask_4> paper <mask_5> </expression> ", "output": " \"A woman writes the word pepper on a piece of paper.\" "}
+{"input": " <expression> <mask_0> stand <mask_1> body <mask_2> skip <mask_3> rocks <mask_4> water <mask_5> </expression> ", "output": " If you stand your body at the right angle, you can skip rocks across water. "}
+{"input": " <expression> <mask_0> arches <mask_1> standing <mask_2> object <mask_3> wall <mask_4> window <mask_5> </expression> ", "output": " A woman arches her back while standing on an object against the wall and next to a window. "}
+{"input": " <expression> <mask_0> traffic <mask_1> directs <mask_2> stand <mask_3> middle <mask_4> street <mask_5> </expression> ", "output": " The traffic police directs the car driver not to stand in the middle of the street blocking the way. "}
+{"input": " <expression> <mask_0> bird <mask_1> eats <mask_2> food <mask_3> cup <mask_4> holding <mask_5> </expression> ", "output": " The bird eats the food from the cup that is the owner is holding. "}
+{"input": " <expression> <mask_0> runs <mask_1> catch <mask_2> ball <mask_3> falls <mask_4> ground <mask_5> </expression> ", "output": " The boy runs to catch the ball before it falls on the ground. "}
+{"input": " <expression> <mask_0> dog <mask_1> running <mask_2> track <mask_3> wearing <mask_4> number <mask_5> </expression> ", "output": " The dog was running on the track wearing a number. "}
+{"input": " <expression> <mask_0> used <mask_1> take <mask_2> couple <mask_3> strolls <mask_4> cain <mask_5> </expression> ", "output": " I am used to take a couple of strolls with my friend cain "}
+{"input": " <expression> <mask_0> cracks <mask_1> egg <mask_2> pot <mask_3> adds <mask_4> butter <mask_5> </expression> ", "output": " A man cracks an egg into a pot and then adds some butter. "}
+{"input": " <expression> <mask_0> burn <mask_1> tool <mask_2> design <mask_3> piece <mask_4> wood <mask_5> </expression> ", "output": " I will burn you with a tool with a design of a piece of wood on it. "}
+{"input": " <expression> <mask_0> wear <mask_1> dress <mask_2> performing <mask_3> front <mask_4> audience <mask_5> </expression> ", "output": " The girl was excited to wear a new dress while performing in front of the audience. "}
+{"input": " <expression> <mask_0> drives <mask_1> car <mask_2> pedestrian <mask_3> front <mask_4> road <mask_5> </expression> ", "output": " The man drives the car past the pedestrian crossing in front of him on the road. "}
+{"input": " <expression> <mask_0> customer <mask_1> watches <mask_2> employee <mask_3> prepare <mask_4> food <mask_5> </expression> ", "output": " A customer watches the restaurant employee prepare the food. "}
+{"input": " <expression> <mask_0> stands <mask_1> bank <mask_2> casts <mask_3> line <mask_4> water <mask_5> </expression> ", "output": " The man stands near the bank and casts a line into the water to catch fish. "}
+{"input": " <expression> <mask_0> gives <mask_1> dog <mask_2> treat <mask_3> teach <mask_4> sit <mask_5> </expression> ", "output": " The girl gives a dog a treat to teach him how to sit. "}
+{"input": " <expression> <mask_0> wears <mask_1> cooking <mask_2> frying <mask_3> pan <mask_4> sausages <mask_5> </expression> ", "output": " My sister wears Apron while cooking and frying in the pan especially sausages. "}
+{"input": " <expression> <mask_0> cooks <mask_1> vegetables <mask_2> pan <mask_3> stove <mask_4> top <mask_5> </expression> ", "output": " The woman cooks the vegetables in the pan on a stove and puts the vegetables on top of the meat. "}
+{"input": " <expression> <mask_0> wore <mask_1> glove <mask_2> hand <mask_3> open <mask_4> oyster <mask_5> </expression> ", "output": " The man wore a glove on his hand to open the oyster. "}
+{"input": " <expression> <mask_0> stand <mask_1> pump <mask_2> hold <mask_3> nozzle <mask_4> car <mask_5> </expression> ", "output": " The man will stand next to the gas pump and hold the nozzle in his car to fill it with gas. "}
+{"input": " <expression> <mask_0> pushed <mask_1> wheelbarrow <mask_2> hill <mask_3> fell <mask_4> sat <mask_5> </expression> ", "output": " The group of children pushed the wheelbarrow up the hill and then fell and sat at the bottom. "}
+{"input": " <expression> <mask_0> begins <mask_1> dance <mask_2> perform <mask_3> stunts <mask_4> tricks <mask_5> </expression> ", "output": " The girl begins to dance and perform a routine full of stunts and tricks. "}
+{"input": " <expression> <mask_0> holds <mask_1> razor <mask_2> shave <mask_3> wool <mask_4> sheep <mask_5> </expression> ", "output": " A farmer holds a razor he used to shave wool off a sheep "}
+{"input": " <expression> <mask_0> dance <mask_1> performed <mask_2> stage <mask_3> wearing <mask_4> costumes <mask_5> </expression> ", "output": " The dance was performed on stage by professionals, wearing elaborate costumes. "}
